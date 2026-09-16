@@ -350,8 +350,10 @@ KA_1 (0.67), 676 → KA_11 (0.67, margin 0.006), 704 → KA_9 (0.67, margin
 
 Deliverables built on the laptop (the review code is uncommitted there, see
 below): `outputs/stage1/stage1.ssl.final.review.html` (21 false-negative
-cases, 15 of them addendum; 10 MB) and `stage1.ssl.final.viz.html` (map, 33
-focus charters ringed, built with `mole viz --no-highlight-labels`, neighbour lines off; 10 MB). `mole review` / `mole viz` need the sidecar's
+cases, 15 of them addendum; `--max-mb 0 --image-scope all`, 16 MB) and
+`stage1.ssl.final.viz.html` (map, 33 focus charters ringed, every page
+inlined: `mole viz --no-highlight-labels --max-mb 0`, 31 MB). Sent to Els and
+Robin via WeTransfer on 2026-09-16. `mole review` / `mole viz` need the sidecar's
 relative `data/stage1-pool/…` to resolve: `~/GitRepos/mole/data/stage1-pool`
 is a symlink to `images/stage1-pool`, run from `~/GitRepos/mole`.
 
