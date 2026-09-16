@@ -351,14 +351,13 @@ KA_1 (0.67), 676 → KA_11 (0.67, margin 0.006), 704 → KA_9 (0.67, margin
 Deliverables built on the laptop (the review code is uncommitted there, see
 below): `outputs/stage1/stage1.ssl.final.review.html` (21 false-negative
 cases, 15 of them addendum; 10 MB) and `stage1.ssl.final.viz.html` (map, 33
-focus charters ringed; 10 MB). `mole review` / `mole viz` need the sidecar's
+focus charters ringed, built with `mole viz --no-highlight-labels`; 10 MB). `mole review` / `mole viz` need the sidecar's
 relative `data/stage1-pool/…` to resolve: `~/GitRepos/mole/data/stage1-pool`
 is a symlink to `images/stage1-pool`, run from `~/GitRepos/mole`.
 
-**Mole state:** the three-tab review sheet (`src/mole/review/{render,suggest}.py`,
-`cli/main.py`, `data/docids.py`) is ~1,500 lines of **uncommitted** work on
-the laptop, absent from origin and from the server. Embed on the server, build
-sheets on the laptop until that is committed.
+**Mole state:** the three-tab review sheet and `--no-highlight-labels` are
+mole commit `9acb0d1` (2026-09-16). The server was still on `0077799` when
+stage 1 ran — `git pull` there before building sheets server-side.
 
 ### Stage 2 (not decided)
 
