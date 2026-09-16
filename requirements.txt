@@ -1,0 +1,4 @@
+# Direct dependencies. Install via: conda env create -f environment.yml
+
+pytest==8.3.5
+Pillow==12.1.1

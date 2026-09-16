@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Original charter photographs (copied from mole/data/flanders)
+data/raw/
+
+# BLLA crops and resume log
+images/zoned/
+images/zoned-stretched/
+images/zoned-sauvola/
+data/zones_blla.jsonl
+data/zones.json
+data/ls_zones_import.json
+data/ls_zones_export.json
+
+# Review HTML inlines thumbnails
+outputs/
+
+.DS_Store
+
+# Robin's addendum (2026-09): originals as delivered, copies, crops, pool
+data/KESTEMONT-WAEYTENS_Corpus-Margareta1270_Addendum/
+data/addendum/raw/
+data/addendum/zones_blla.jsonl
+data/addendum/zones.json
+data/addendum/ls_zones_import.json
+data/addendum/ls_zones_export.json
+images/addendum/
+images/stage1-pool/

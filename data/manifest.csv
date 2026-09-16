@@ -1,0 +1,387 @@
+relative_path,filename,folder,hand_id,doc_id,scan_index,scan_explicit,repository,shelfmark,note,main_document,reason,parse_ok,collision_key
+hand/KA_1/12_2_RAGent_K72_14 (Groot).jpeg,12_2_RAGent_K72_14 (Groot).jpeg,hand/KA_1,KA_1,12,2,1,RA Gent,K72_14,Groot,1,,1,ra gent|k72 14
+hand/KA_1/134_2_RAGent K21_98.jpeg,134_2_RAGent K21_98.jpeg,hand/KA_1,KA_1,134,2,1,RA Gent,K21_98,,1,,1,ra gent|k21 98
+hand/KA_1/134_3_RAGent K21_98.jpeg,134_3_RAGent K21_98.jpeg,hand/KA_1,KA_1,134,3,1,RA Gent,K21_98,,0,sibling_scan_of=134_2_RAGent K21_98.jpeg,1,ra gent|k21 98
+hand/KA_1/135_2_RAGent K21_107.jpeg,135_2_RAGent K21_107.jpeg,hand/KA_1,KA_1,135,2,1,RA Gent,K21_107,,1,,1,ra gent|k21 107
+hand/KA_1/136_2_RAGent K21_122.jpeg,136_2_RAGent K21_122.jpeg,hand/KA_1,KA_1,136,2,1,RA Gent,K21_122,,1,,1,ra gent|k21 122
+hand/KA_1/579_2_RAGent K21_124.jpeg,579_2_RAGent K21_124.jpeg,hand/KA_1,KA_1,579,2,1,RA Gent,K21_124,,1,,1,ra gent|k21 124
+hand/KA_1/581_2_RAGent K21_108.jpeg,581_2_RAGent K21_108.jpeg,hand/KA_1,KA_1,581,2,1,RA Gent,K21_108,,1,,1,ra gent|k21 108
+hand/KA_1/581_3_RAGent K21_108.jpeg,581_3_RAGent K21_108.jpeg,hand/KA_1,KA_1,581,3,1,RA Gent,K21_108,,0,sibling_scan_of=581_2_RAGent K21_108.jpeg,1,ra gent|k21 108
+hand/KA_1/615_2_RAGent K78_296.jpeg,615_2_RAGent K78_296.jpeg,hand/KA_1,KA_1,615,2,1,RA Gent,K78_296,,1,,1,ra gent|k78 296
+hand/KA_1/615_3_RAGent K78_296.jpeg,615_3_RAGent K78_296.jpeg,hand/KA_1,KA_1,615,3,1,RA Gent,K78_296,,0,sibling_scan_of=615_2_RAGent K78_296.jpeg,1,ra gent|k78 296
+hand/KA_1/615_4_RAGent K78_296.jpeg,615_4_RAGent K78_296.jpeg,hand/KA_1,KA_1,615,4,1,RA Gent,K78_296,,0,sibling_scan_of=615_2_RAGent K78_296.jpeg,1,ra gent|k78 296
+hand/KA_1/643_2_ADN Lille 16G 269_2398.jpeg,643_2_ADN Lille 16G 269_2398.jpeg,hand/KA_1,KA_1,643,2,1,ADN Lille,16G 269_2398,,1,,1,adn lille|16g 269 2398
+hand/KA_1/643_3_ADN Lille 16G 269_2398.jpeg,643_3_ADN Lille 16G 269_2398.jpeg,hand/KA_1,KA_1,643,3,1,ADN Lille,16G 269_2398,,0,sibling_scan_of=643_2_ADN Lille 16G 269_2398.jpeg,1,adn lille|16g 269 2398
+hand/KA_10/105_3_RAGent_K16_40 (Groot).JPG,105_3_RAGent_K16_40 (Groot).JPG,hand/KA_10,KA_10,105,3,1,RA Gent,K16_40,Groot,1,,1,ra gent|k16 40
+hand/KA_10/108_2_RAGent_K6_7.jpeg,108_2_RAGent_K6_7.jpeg,hand/KA_10,KA_10,108,2,1,RA Gent,K6_7,,1,,1,ra gent|k6 7
+hand/KA_10/129_2_RAGent_K78_409.jpeg,129_2_RAGent_K78_409.jpeg,hand/KA_10,KA_10,129,2,1,RA Gent,K78_409,,1,,1,ra gent|k78 409
+hand/KA_10/141_2_RAGent K72_29.jpeg,141_2_RAGent K72_29.jpeg,hand/KA_10,KA_10,141,2,1,RA Gent,K72_29,,1,,1,ra gent|k72 29
+hand/KA_10/161_2_ADN Lille B 400_1643.jpeg,161_2_ADN Lille B 400_1643.jpeg,hand/KA_10,KA_10,161,2,1,ADN Lille,B 400_1643,,1,,1,adn lille|b 400 1643
+hand/KA_10/161_4_ADN Lille B 400_1643.jpeg,161_4_ADN Lille B 400_1643.jpeg,hand/KA_10,KA_10,161,4,1,ADN Lille,B 400_1643,,0,sibling_scan_of=161_2_ADN Lille B 400_1643.jpeg,1,adn lille|b 400 1643
+hand/KA_10/166_2_ADNLille_B 496_1298 .jpeg,166_2_ADNLille_B 496_1298 .jpeg,hand/KA_10,KA_10,166,2,1,ADN Lille,B 496_1298,,1,,1,adn lille|b 496 1298
+hand/KA_10/30_2_RABrugge_INV 120_7435 .jpeg,30_2_RABrugge_INV 120_7435 .jpeg,hand/KA_10,KA_10,30,2,1,RA Brugge,INV 120_7435,,1,,1,ra brugge|inv 120 7435
+hand/KA_10/320_2_ADN Lille_31H82_1483 (Groot).JPG,320_2_ADN Lille_31H82_1483 (Groot).JPG,hand/KA_10,KA_10,320,2,1,ADN Lille,31H82_1483,Groot,1,,1,adn lille|31h82 1483
+hand/KA_10/342_1_ADN Lille_33H56_997 (Groot).JPG,342_1_ADN Lille_33H56_997 (Groot).JPG,hand/KA_10,KA_10,342,1,1,ADN Lille,33H56_997,Groot,1,,1,adn lille|33h56 997
+hand/KA_10/42_1_SAGent_94_74.jpg,42_1_SAGent_94_74.jpg,hand/KA_10,KA_10,42,1,1,SA Gent,94_74,,1,,1,sa gent|94 74
+hand/KA_10/458_2_RAGent_K16_39.jpeg,458_2_RAGent_K16_39.jpeg,hand/KA_10,KA_10,458,2,1,RA Gent,K16_39,,1,,1,ra gent|k16 39
+hand/KA_10/521_1_ADN Lille_B 1373_973.JPG,521_1_ADN Lille_B 1373_973.JPG,hand/KA_10,KA_10,521,1,1,ADN Lille,B 1373_973,,1,,1,adn lille|b 1373 973
+hand/KA_10/551_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_1056.jpeg,551_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_1056.jpeg,hand/KA_10,KA_10,551,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_1056,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 1056
+hand/KA_10/571_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_1010.jpeg,571_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_1010.jpeg,hand/KA_10,KA_10,571,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_1010,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 1010
+hand/KA_10/572_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_983.jpeg,572_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_983.jpeg,hand/KA_10,KA_10,572,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_983,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 983
+hand/KA_10/573_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_977.jpeg,573_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_977.jpeg,hand/KA_10,KA_10,573,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_977,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 977
+hand/KA_10/583_1_RAGent K99_726A.jpeg,583_1_RAGent K99_726A.jpeg,hand/KA_10,KA_10,583,1,1,RA Gent,K99_726A,,1,,1,ra gent|k99 726a
+hand/KA_10/583_2_RAGent K99_726A.jpeg,583_2_RAGent K99_726A.jpeg,hand/KA_10,KA_10,583,2,1,RA Gent,K99_726A,,0,sibling_scan_of=583_1_RAGent K99_726A.jpeg,1,ra gent|k99 726a
+hand/KA_10/583_3_RAGent K99_726A.jpeg,583_3_RAGent K99_726A.jpeg,hand/KA_10,KA_10,583,3,1,RA Gent,K99_726A,,0,sibling_scan_of=583_1_RAGent K99_726A.jpeg,1,ra gent|k99 726a
+hand/KA_10/588_1_RA Bergen_AEM.01.151_14.jpeg,588_1_RA Bergen_AEM.01.151_14.jpeg,hand/KA_10,KA_10,588,1,1,RA Bergen,AEM.01.151_14,,1,,1,ra bergen|aem 01 151 14
+hand/KA_10/588_2_RA Bergen_AEM.01.151_14.jpeg,588_2_RA Bergen_AEM.01.151_14.jpeg,hand/KA_10,KA_10,588,2,1,RA Bergen,AEM.01.151_14,,0,sibling_scan_of=588_1_RA Bergen_AEM.01.151_14.jpeg,1,ra bergen|aem 01 151 14
+hand/KA_10/597_2_RAGent K95_14.jpeg,597_2_RAGent K95_14.jpeg,hand/KA_10,KA_10,597,2,1,RA Gent,K95_14,,1,,1,ra gent|k95 14
+hand/KA_10/598_2_RAGent K174_240.jpeg,598_2_RAGent K174_240.jpeg,hand/KA_10,KA_10,598,2,1,RA Gent,K174_240,,1,,1,ra gent|k174 240
+hand/KA_10/607_2_Bisschoppelijk Archief Brugge C354_17.jpeg,607_2_Bisschoppelijk Archief Brugge C354_17.jpeg,hand/KA_10,KA_10,607,2,1,Bisschoppelijk Archief Brugge,C354_17,,1,,1,bisschoppelijk archief brugge|c354 17
+hand/KA_10/609_2_Bisschoppelijk Archief Brugge C354_20.jpeg,609_2_Bisschoppelijk Archief Brugge C354_20.jpeg,hand/KA_10,KA_10,609,2,1,Bisschoppelijk Archief Brugge,C354_20,,1,,1,bisschoppelijk archief brugge|c354 20
+hand/KA_10/609_3_Bisschoppelijk Archief Brugge C354_20.jpeg,609_3_Bisschoppelijk Archief Brugge C354_20.jpeg,hand/KA_10,KA_10,609,3,1,Bisschoppelijk Archief Brugge,C354_20,,0,sibling_scan_of=609_2_Bisschoppelijk Archief Brugge C354_20.jpeg,1,bisschoppelijk archief brugge|c354 20
+hand/KA_10/613_2_Bisschoppelijk Archief Brugge C419_8.jpeg,613_2_Bisschoppelijk Archief Brugge C419_8.jpeg,hand/KA_10,KA_10,613,2,1,Bisschoppelijk Archief Brugge,C419_8,,1,,1,bisschoppelijk archief brugge|c419 8
+hand/KA_10/613_3_Bisschoppelijk Archief Brugge C419_8.jpeg,613_3_Bisschoppelijk Archief Brugge C419_8.jpeg,hand/KA_10,KA_10,613,3,1,Bisschoppelijk Archief Brugge,C419_8,,0,sibling_scan_of=613_2_Bisschoppelijk Archief Brugge C419_8.jpeg,1,bisschoppelijk archief brugge|c419 8
+hand/KA_10/617_2_RAGent K78_399.jpeg,617_2_RAGent K78_399.jpeg,hand/KA_10,KA_10,617,2,1,RA Gent,K78_399,,1,,1,ra gent|k78 399
+hand/KA_10/617_3_RAGent K78_399.jpeg,617_3_RAGent K78_399.jpeg,hand/KA_10,KA_10,617,3,1,RA Gent,K78_399,,0,sibling_scan_of=617_2_RAGent K78_399.jpeg,1,ra gent|k78 399
+hand/KA_10/618_2_RAGent K78_421.jpeg,618_2_RAGent K78_421.jpeg,hand/KA_10,KA_10,618,2,1,RA Gent,K78_421,,1,,1,ra gent|k78 421
+hand/KA_10/618_3_RAGent K78_421.jpeg,618_3_RAGent K78_421.jpeg,hand/KA_10,KA_10,618,3,1,RA Gent,K78_421,,0,sibling_scan_of=618_2_RAGent K78_421.jpeg,1,ra gent|k78 421
+hand/KA_10/619_3_RAGent K78_429.jpeg,619_3_RAGent K78_429.jpeg,hand/KA_10,KA_10,619,3,1,RA Gent,K78_429,,1,,1,ra gent|k78 429
+hand/KA_10/619_4_RAGent K78_429.jpeg,619_4_RAGent K78_429.jpeg,hand/KA_10,KA_10,619,4,1,RA Gent,K78_429,,0,sibling_scan_of=619_3_RAGent K78_429.jpeg,1,ra gent|k78 429
+hand/KA_10/61_4_SAGent_94_92.jpeg,61_4_SAGent_94_92.jpeg,hand/KA_10,KA_10,61,4,1,SA Gent,94_92,,1,,1,sa gent|94 92
+hand/KA_10/61_5_SAGent_94_92.jpeg,61_5_SAGent_94_92.jpeg,hand/KA_10,KA_10,61,5,1,SA Gent,94_92,,0,sibling_scan_of=61_4_SAGent_94_92.jpeg,1,sa gent|94 92
+hand/KA_10/620_2_RAGent K95_3..jpeg,620_2_RAGent K95_3..jpeg,hand/KA_10,KA_10,620,2,1,RA Gent,K95_3,,1,,1,ra gent|k95 3
+hand/KA_10/620_3_RAGent K95_3..jpeg,620_3_RAGent K95_3..jpeg,hand/KA_10,KA_10,620,3,1,RA Gent,K95_3,,0,sibling_scan_of=620_2_RAGent K95_3..jpeg,1,ra gent|k95 3
+hand/KA_10/637_2_ADN Lille B 1062_1493bis.jpeg,637_2_ADN Lille B 1062_1493bis.jpeg,hand/KA_10,KA_10,637,2,1,ADN Lille,B 1062_1493bis,,1,,1,adn lille|b 1062 1493bis
+hand/KA_10/651_2_ADN Lille 1G 254_1582.jpeg,651_2_ADN Lille 1G 254_1582.jpeg,hand/KA_10,KA_10,651,2,1,ADN Lille,1G 254_1582,,1,,1,adn lille|1g 254 1582
+hand/KA_10/651_3_ADN Lille 1G 254_1582.jpeg,651_3_ADN Lille 1G 254_1582.jpeg,hand/KA_10,KA_10,651,3,1,ADN Lille,1G 254_1582,,0,sibling_scan_of=651_2_ADN Lille 1G 254_1582.jpeg,1,adn lille|1g 254 1582
+hand/KA_10/84_2_RAGent_K6_9..jpeg,84_2_RAGent_K6_9..jpeg,hand/KA_10,KA_10,84,2,1,RA Gent,K6_9,,1,,1,ra gent|k6 9
+hand/KA_10/90_1_RAGent GW1_131.jpg,90_1_RAGent GW1_131.jpg,hand/KA_10,KA_10,90,1,1,RA Gent,GW1_131,,1,,1,ra gent|gw1 131
+hand/KA_10/92_1_RAGent GW1_134.jpg,92_1_RAGent GW1_134.jpg,hand/KA_10,KA_10,92,1,1,RA Gent,GW1_134,,1,,1,ra gent|gw1 134
+hand/KA_11/202_1_ADN Lille_1H 218_2500 (Groot).JPG,202_1_ADN Lille_1H 218_2500 (Groot).JPG,hand/KA_11,KA_11,202,1,1,ADN Lille,1H 218_2500,Groot,1,,1,adn lille|1h 218 2500
+hand/KA_11/553_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_988.jpeg,553_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_988.jpeg,hand/KA_11,KA_11,553,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_988,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 988
+hand/KA_11/578_2_RAGent K21_183.jpeg,578_2_RAGent K21_183.jpeg,hand/KA_11,KA_11,578,2,1,RA Gent,K21_183,,1,,1,ra gent|k21 183
+hand/KA_2/127_2_RAGent_K131_4.jpeg,127_2_RAGent_K131_4.jpeg,hand/KA_2,KA_2,127,2,1,RA Gent,K131_4,,1,,1,ra gent|k131 4
+hand/KA_2/220_2_ADN Lille_4G 708_6984 (Groot).JPG,220_2_ADN Lille_4G 708_6984 (Groot).JPG,hand/KA_2,KA_2,220,2,1,ADN Lille,4G 708_6984,Groot,1,,1,adn lille|4g 708 6984
+hand/KA_2/476_3_ADN Lille_B 1260_868.jpeg,476_3_ADN Lille_B 1260_868.jpeg,hand/KA_2,KA_2,476,3,1,ADN Lille,B 1260_868,,1,,1,adn lille|b 1260 868
+hand/KA_2/510_1_ADN Lille_Archives hospitalières de la ville de Lille - I. Hôpital Comtesse - Titres isolés-49.JPG,510_1_ADN Lille_Archives hospitalières de la ville de Lille - I. Hôpital Comtesse - Titres isolés-49.JPG,hand/KA_2,KA_2,510,1,1,ADN Lille,Archives hospitalières de la ville de Lille - I. Hôpital Comtesse - Titres isolés-49,,1,,1,adn lille|archives hospitalières de la ville de lille - i hôpital comtesse - titres isolés-49
+hand/KA_2/514_1_ADN Lille_Archives hospitalières de Lille I. Hôpital Comtesse Titres isolés-43_2.JPG,514_1_ADN Lille_Archives hospitalières de Lille I. Hôpital Comtesse Titres isolés-43_2.JPG,hand/KA_2,KA_2,514,1,1,ADN Lille,Archives hospitalières de Lille I. Hôpital Comtesse Titres isolés-43_2,,1,,1,adn lille|archives hospitalières de lille i hôpital comtesse titres isolés-43 2
+hand/KA_2/526_1_ADN Lille_B 1532_834.JPG,526_1_ADN Lille_B 1532_834.JPG,hand/KA_2,KA_2,526,1,1,ADN Lille,B 1532_834,,1,,1,adn lille|b 1532 834
+hand/KA_2/528_3_ADN Lille B 396_863.jpeg,528_3_ADN Lille B 396_863.jpeg,hand/KA_2,KA_2,528,3,1,ADN Lille,B 396_863,,1,,1,adn lille|b 396 863
+hand/KA_2/530_2_RA Bergen_AEM.02.144_100.jpeg,530_2_RA Bergen_AEM.02.144_100.jpeg,hand/KA_2,KA_2,530,2,1,RA Bergen,AEM.02.144_100,,1,,1,ra bergen|aem 02 144 100
+hand/KA_2/635_2_SAGent Fonds Bijlokehospitaal_7bis..jpeg,635_2_SAGent Fonds Bijlokehospitaal_7bis..jpeg,hand/KA_2,KA_2,635,2,1,SA Gent,Fonds Bijlokehospitaal_7bis,,1,,1,sa gent|fonds bijlokehospitaal 7bis
+hand/KA_2/8_1_ADN Lille_B 1016_830 (DiBe 27608).JPG,8_1_ADN Lille_B 1016_830 (DiBe 27608).JPG,hand/KA_2,KA_2,8,1,1,ADN Lille,B 1016_830,DiBe 27608,1,,1,adn lille|b 1016 830
+hand/KA_3/507_1_ADNLille_49 H 19_70.JPG,507_1_ADNLille_49 H 19_70.JPG,hand/KA_3,KA_3,507,1,1,ADN Lille,49 H 19_70,,1,,1,adn lille|49 h 19 70
+hand/KA_3/508_ADN Lille_Archives hospitalières de la ville de Lille - I. Hôpital Comtesse - Titres isolés-44.JPG,508_ADN Lille_Archives hospitalières de la ville de Lille - I. Hôpital Comtesse - Titres isolés-44.JPG,hand/KA_3,KA_3,508,1,0,ADN Lille,Archives hospitalières de la ville de Lille - I. Hôpital Comtesse - Titres isolés-44,,1,,1,adn lille|archives hospitalières de la ville de lille - i hôpital comtesse - titres isolés-44
+hand/KA_4/11_2_RAGent K99_578.jpeg,11_2_RAGent K99_578.jpeg,hand/KA_4,KA_4,11,2,1,RA Gent,K99_578,,1,,1,ra gent|k99 578
+hand/KA_4/180_2_ADN Lille 1G 91_211.jpeg,180_2_ADN Lille 1G 91_211.jpeg,hand/KA_4,KA_4,180,2,1,ADN Lille,1G 91_211,,1,,1,adn lille|1g 91 211
+hand/KA_5/14_4_ANParijs_J 540_I-5-18 (Groot).jpg,14_4_ANParijs_J 540_I-5-18 (Groot).jpg,hand/KA_5,KA_5,14,4,1,AN Paris,J 540_I-5-18,Groot,1,,1,an paris|j 540 i-5-18
+hand/KA_5/1_8_ANParijs_J537_I-5-6 (Groot).jpg,1_8_ANParijs_J537_I-5-6 (Groot).jpg,hand/KA_5,KA_5,1,8,1,AN Paris,J537_I-5-6,Groot,1,,1,an paris|j537 i-5-6
+hand/KA_5/252_1_ADN Lille_30H17_250.JPG,252_1_ADN Lille_30H17_250.JPG,hand/KA_5,KA_5,252,1,1,ADN Lille,30H17_250,,1,,1,adn lille|30h17 250
+hand/KA_5/527_1_ADN Lille_B 1534_827.JPG,527_1_ADN Lille_B 1534_827.JPG,hand/KA_5,KA_5,527,1,1,ADN Lille,B 1534_827,,1,,1,adn lille|b 1534 827
+hand/KA_6/2_3_ADN Lille B 444_816.jpeg,2_3_ADN Lille B 444_816.jpeg,hand/KA_6,KA_6,2,3,1,ADN Lille,B 444_816,,1,,1,adn lille|b 444 816
+hand/KA_6/3_1_ADNLille_B 444_825 (DiBe 22716).JPG,3_1_ADNLille_B 444_825 (DiBe 22716).JPG,hand/KA_6,KA_6,3,1,1,ADN Lille,B 444_825,DiBe 22716,1,,1,adn lille|b 444 825
+hand/KA_6/493_AM Lille_PAT-155-2857.jpg,493_AM Lille_PAT-155-2857.jpg,hand/KA_6,KA_6,493,1,0,AM Lille,PAT-155-2857,,1,,1,am lille|pat-155-2857
+hand/KA_6/499_1_ADNLille_30 H 59_938.JPG,499_1_ADNLille_30 H 59_938.JPG,hand/KA_6,KA_6,499,1,1,ADN Lille,30 H 59_938,,1,,1,adn lille|30 h 59 938
+hand/KA_6/504_1_ADNLille_40 H 556_1345.JPG,504_1_ADNLille_40 H 556_1345.JPG,hand/KA_6,KA_6,504,1,1,ADN Lille,40 H 556_1345,,1,,1,adn lille|40 h 556 1345
+hand/KA_6/525_1_ADN Lille_B 1528_835.JPG,525_1_ADN Lille_B 1528_835.JPG,hand/KA_6,KA_6,525,1,1,ADN Lille,B 1528_835,,1,,1,adn lille|b 1528 835
+hand/KA_6/6_2_RAGent_K95_6.jpeg,6_2_RAGent_K95_6.jpeg,hand/KA_6,KA_6,6,2,1,RA Gent,K95_6,,1,,1,ra gent|k95 6
+hand/KA_7/16_2_RAGent_K14_36.jpeg,16_2_RAGent_K14_36.jpeg,hand/KA_7,KA_7,16,2,1,RA Gent,K14_36,,1,,1,ra gent|k14 36
+hand/KA_7/209_3_ADN Lille 1H 399_3661.jpeg,209_3_ADN Lille 1H 399_3661.jpeg,hand/KA_7,KA_7,209,3,1,ADN Lille,1H 399_3661,,1,,1,adn lille|1h 399 3661
+hand/KA_7/21_1_RAGent_K32_14 (Groot).JPG,21_1_RAGent_K32_14 (Groot).JPG,hand/KA_7,KA_7,21,1,1,RA Gent,K32_14,Groot,1,,1,ra gent|k32 14
+hand/KA_7/253_1_ADN Lille_30H 17_253 (Groot).JPG,253_1_ADN Lille_30H 17_253 (Groot).JPG,hand/KA_7,KA_7,253,1,1,ADN Lille,30H 17_253,Groot,1,,1,adn lille|30h 17 253
+hand/KA_7/281_3_ADN Lille_31H13_176.jpeg,281_3_ADN Lille_31H13_176.jpeg,hand/KA_7,KA_7,281,3,1,ADN Lille,31H13_176,,1,,1,adn lille|31h13 176
+hand/KA_7/282_1_ADN Lille_31H 13_177.jpeg,282_1_ADN Lille_31H 13_177.jpeg,hand/KA_7,KA_7,282,1,1,ADN Lille,31H 13_177,,1,,1,adn lille|31h 13 177
+hand/KA_7/283_1_ADN Lille_31H 13_178 .JPG,283_1_ADN Lille_31H 13_178 .JPG,hand/KA_7,KA_7,283,1,1,ADN Lille,31H 13_178,,1,,1,adn lille|31h 13 178
+hand/KA_7/284_2_ADN Lille 31H 13_179.jpeg,284_2_ADN Lille 31H 13_179.jpeg,hand/KA_7,KA_7,284,2,1,ADN Lille,31H 13_179,,1,,1,adn lille|31h 13 179
+hand/KA_7/285_2_ADN Lille 31H 13_180.jpeg,285_2_ADN Lille 31H 13_180.jpeg,hand/KA_7,KA_7,285,2,1,ADN Lille,31H 13_180,,1,,1,adn lille|31h 13 180
+hand/KA_7/289_1_ADN Lille_31H 13_189 (Groot).JPG,289_1_ADN Lille_31H 13_189 (Groot).JPG,hand/KA_7,KA_7,289,1,1,ADN Lille,31H 13_189,Groot,1,,1,adn lille|31h 13 189
+hand/KA_7/290_1_ADN Lille 31H 13_190.jpeg,290_1_ADN Lille 31H 13_190.jpeg,hand/KA_7,KA_7,290,1,1,ADN Lille,31H 13_190,,1,,1,adn lille|31h 13 190
+hand/KA_7/291_1_ADN Lille 31H 13_191.jpeg,291_1_ADN Lille 31H 13_191.jpeg,hand/KA_7,KA_7,291,1,1,ADN Lille,31H 13_191,,1,,1,adn lille|31h 13 191
+hand/KA_7/313_1_ADN Lille_31H63_972 (Groot).JPG,313_1_ADN Lille_31H63_972 (Groot).JPG,hand/KA_7,KA_7,313,1,1,ADN Lille,31H63_972,Groot,1,,1,adn lille|31h63 972
+hand/KA_7/319_1_ADN Lille 31H 75_1334.jpeg,319_1_ADN Lille 31H 75_1334.jpeg,hand/KA_7,KA_7,319,1,1,ADN Lille,31H 75_1334,,1,,1,adn lille|31h 75 1334
+hand/KA_7/346_1_ADN Lille 33H 62_1104.jpeg,346_1_ADN Lille 33H 62_1104.jpeg,hand/KA_7,KA_7,346,1,1,ADN Lille,33H 62_1104,,1,,1,adn lille|33h 62 1104
+hand/KA_7/347_1_ADN Lille 33H 62_1105.jpeg,347_1_ADN Lille 33H 62_1105.jpeg,hand/KA_7,KA_7,347,1,1,ADN Lille,33H 62_1105,,1,,1,adn lille|33h 62 1105
+hand/KA_7/469_RAKortrijk_23-3_390.jpg,469_RAKortrijk_23-3_390.jpg,hand/KA_7,KA_7,469,1,0,RA Kortrijk,23-3_390,,1,,1,ra kortrijk|23-3 390
+hand/KA_7/497_1_ADNLille_27H 17_273.JPG,497_1_ADNLille_27H 17_273.JPG,hand/KA_7,KA_7,497,1,1,ADN Lille,27H 17_273,,1,,1,adn lille|27h 17 273
+hand/KA_7/518_1_ADN Lille_Archives hospitalières de Seclin B 1_4.JPG,518_1_ADN Lille_Archives hospitalières de Seclin B 1_4.JPG,hand/KA_7,KA_7,518,1,1,ADN Lille,Archives hospitalières de Seclin B 1_4,,1,,1,adn lille|archives hospitalières de seclin b 1 4
+hand/KA_7/524_1_ADN Lille_B 1517_895.JPG,524_1_ADN Lille_B 1517_895.JPG,hand/KA_7,KA_7,524,1,1,ADN Lille,B 1517_895,,1,,1,adn lille|b 1517 895
+hand/KA_7/646_2_ADN Lille 16G 151_1537.jpeg,646_2_ADN Lille 16G 151_1537.jpeg,hand/KA_7,KA_7,646,2,1,ADN Lille,16G 151_1537,,1,,1,adn lille|16g 151 1537
+hand/KA_8/107_2_RAGent_K6_6.jpeg,107_2_RAGent_K6_6.jpeg,hand/KA_8,KA_8,107,2,1,RA Gent,K6_6,,1,,1,ra gent|k6 6
+hand/KA_8/10_1_ADN Lille_ B1517_895bis.JPG,10_1_ADN Lille_ B1517_895bis.JPG,hand/KA_8,KA_8,10,1,1,ADN Lille,B1517_895bis,,1,,1,adn lille|b1517 895bis
+hand/KA_8/121_2_RAGent_K32_17.jpeg,121_2_RAGent_K32_17.jpeg,hand/KA_8,KA_8,121,2,1,RA Gent,K32_17,,1,,1,ra gent|k32 17
+hand/KA_8/123_1_RAGent K32_19bis (FACSIMILE).jpeg,123_1_RAGent K32_19bis (FACSIMILE).jpeg,hand/KA_8,KA_8,123,1,1,RA Gent,K32_19bis,FACSIMILE,1,,1,ra gent|k32 19bis
+hand/KA_8/131_2_RAGent_K78_402.jpeg,131_2_RAGent_K78_402.jpeg,hand/KA_8,KA_8,131,2,1,RA Gent,K78_402,,1,,1,ra gent|k78 402
+hand/KA_8/139_2_RAGent K21_182.jpeg,139_2_RAGent K21_182.jpeg,hand/KA_8,KA_8,139,2,1,RA Gent,K21_182,,1,,1,ra gent|k21 182
+hand/KA_8/147_2_RAGent K133_80.jpeg,147_2_RAGent K133_80.jpeg,hand/KA_8,KA_8,147,2,1,RA Gent,K133_80,,1,,1,ra gent|k133 80
+hand/KA_8/148_2_RAGent_K137_49bis.jpeg,148_2_RAGent_K137_49bis.jpeg,hand/KA_8,KA_8,148,2,1,RA Gent,K137_49bis,,1,,1,ra gent|k137 49bis
+hand/KA_8/148_3_RAGent_K137_49bis.jpeg,148_3_RAGent_K137_49bis.jpeg,hand/KA_8,KA_8,148,3,1,RA Gent,K137_49bis,,0,sibling_scan_of=148_2_RAGent_K137_49bis.jpeg,1,ra gent|k137 49bis
+hand/KA_8/151_2_RABrugge_INV 120_6738.jpeg,151_2_RABrugge_INV 120_6738.jpeg,hand/KA_8,KA_8,151,2,1,RA Brugge,INV 120_6738,,1,,1,ra brugge|inv 120 6738
+hand/KA_8/151_3_RABrugge_INV 120_6738.jpeg,151_3_RABrugge_INV 120_6738.jpeg,hand/KA_8,KA_8,151,3,1,RA Brugge,INV 120_6738,,0,sibling_scan_of=151_2_RABrugge_INV 120_6738.jpeg,1,ra brugge|inv 120 6738
+hand/KA_8/153_2_RABrugge_INV 120_7115.jpeg,153_2_RABrugge_INV 120_7115.jpeg,hand/KA_8,KA_8,153,2,1,RA Brugge,INV 120_7115,,1,,1,ra brugge|inv 120 7115
+hand/KA_8/156_2_ADN Lille B 445_1208.jpeg,156_2_ADN Lille B 445_1208.jpeg,hand/KA_8,KA_8,156,2,1,ADN Lille,B 445_1208,,1,,1,adn lille|b 445 1208
+hand/KA_8/156_5_ADN Lille B 445_1208.jpeg,156_5_ADN Lille B 445_1208.jpeg,hand/KA_8,KA_8,156,5,1,ADN Lille,B 445_1208,,0,sibling_scan_of=156_2_ADN Lille B 445_1208.jpeg,1,adn lille|b 445 1208
+hand/KA_8/164_2_ADNLille_B 400_1474.jpeg,164_2_ADNLille_B 400_1474.jpeg,hand/KA_8,KA_8,164,2,1,ADN Lille,B 400_1474,,1,,1,adn lille|b 400 1474
+hand/KA_8/164_3_ADNLille_B 400_1474.jpeg,164_3_ADNLille_B 400_1474.jpeg,hand/KA_8,KA_8,164,3,1,ADN Lille,B 400_1474,,0,sibling_scan_of=164_2_ADNLille_B 400_1474.jpeg,1,adn lille|b 400 1474
+hand/KA_8/168_2_ADN Lille B 1162_1409.jpeg,168_2_ADN Lille B 1162_1409.jpeg,hand/KA_8,KA_8,168,2,1,ADN Lille,B 1162_1409,,1,,1,adn lille|b 1162 1409
+hand/KA_8/168_3_ADN Lille B 1162_1409.jpeg,168_3_ADN Lille B 1162_1409.jpeg,hand/KA_8,KA_8,168,3,1,ADN Lille,B 1162_1409,,0,sibling_scan_of=168_2_ADN Lille B 1162_1409.jpeg,1,adn lille|b 1162 1409
+hand/KA_8/178_8_ADNLille_B 1528_1294 (Groot).JPG,178_8_ADNLille_B 1528_1294 (Groot).JPG,hand/KA_8,KA_8,178,8,1,ADN Lille,B 1528_1294,Groot,1,,1,adn lille|b 1528 1294
+hand/KA_8/188_1_AMDouai_AA_48 (Groot).jpg,188_1_AMDouai_AA_48 (Groot).jpg,hand/KA_8,KA_8,188,1,1,AM Douai,AA_48,Groot,1,,1,am douai|aa 48
+hand/KA_8/197_1_ADNLille_16 G 291_2556 (Groot) JPG.JPG,197_1_ADNLille_16 G 291_2556 (Groot) JPG.JPG,hand/KA_8,KA_8,197,1,1,ADN Lille,16 G 291_2556 (Groot) JPG,,1,,1,adn lille|16 g 291 2556 (groot) jpg
+hand/KA_8/206_1_ADN Lille_1H 322_3324 (Groot).JPG,206_1_ADN Lille_1H 322_3324 (Groot).JPG,hand/KA_8,KA_8,206,1,1,ADN Lille,1H 322_3324,Groot,1,,1,adn lille|1h 322 3324
+hand/KA_8/208_1_ADN Lille 1H 330_3372.jpeg,208_1_ADN Lille 1H 330_3372.jpeg,hand/KA_8,KA_8,208,1,1,ADN Lille,1H 330_3372,,1,,1,adn lille|1h 330 3372
+hand/KA_8/210_1_ADN Lille 1H 400_3667.jpeg,210_1_ADN Lille 1H 400_3667.jpeg,hand/KA_8,KA_8,210,1,1,ADN Lille,1H 400_3667,,1,,1,adn lille|1h 400 3667
+hand/KA_8/229_2_ADN Lille 10H 210_3434.jpeg,229_2_ADN Lille 10H 210_3434.jpeg,hand/KA_8,KA_8,229,2,1,ADN Lille,10H 210_3434,,1,,1,adn lille|10h 210 3434
+hand/KA_8/229_3_ADN Lille 10H 210_3434.jpeg,229_3_ADN Lille 10H 210_3434.jpeg,hand/KA_8,KA_8,229,3,1,ADN Lille,10H 210_3434,,0,sibling_scan_of=229_2_ADN Lille 10H 210_3434.jpeg,1,adn lille|10h 210 3434
+hand/KA_8/230_1_ADN Lille_10H 210_3435 (Groot).JPG,230_1_ADN Lille_10H 210_3435 (Groot).JPG,hand/KA_8,KA_8,230,1,1,ADN Lille,10H 210_3435,Groot,1,,1,adn lille|10h 210 3435
+hand/KA_8/231_1_ADN Lille 10H 210_3436.jpeg,231_1_ADN Lille 10H 210_3436.jpeg,hand/KA_8,KA_8,231,1,1,ADN Lille,10H 210_3436,,1,,1,adn lille|10h 210 3436
+hand/KA_8/231_3_ADN Lille 10H 210_3436.jpeg,231_3_ADN Lille 10H 210_3436.jpeg,hand/KA_8,KA_8,231,3,1,ADN Lille,10H 210_3436,,0,sibling_scan_of=231_1_ADN Lille 10H 210_3436.jpeg,1,adn lille|10h 210 3436
+hand/KA_8/241_1_ADN Lille_27H 53_774 .jpeg,241_1_ADN Lille_27H 53_774 .jpeg,hand/KA_8,KA_8,241,1,1,ADN Lille,27H 53_774,,1,,1,adn lille|27h 53 774
+hand/KA_8/241_3_ADN Lille_27H 53_774 .jpeg,241_3_ADN Lille_27H 53_774 .jpeg,hand/KA_8,KA_8,241,3,1,ADN Lille,27H 53_774,,0,sibling_scan_of=241_1_ADN Lille_27H 53_774 .jpeg,1,adn lille|27h 53 774
+hand/KA_8/262_1_ADN Lille_30H 31_593 (Groot).JPG,262_1_ADN Lille_30H 31_593 (Groot).JPG,hand/KA_8,KA_8,262,1,1,ADN Lille,30H 31_593,Groot,1,,1,adn lille|30h 31 593
+hand/KA_8/264_1_ADN Lille_30H 55_852 (Groot).JPG,264_1_ADN Lille_30H 55_852 (Groot).JPG,hand/KA_8,KA_8,264,1,1,ADN Lille,30H 55_852,Groot,1,,1,adn lille|30h 55 852
+hand/KA_8/266_1_ADN Lille_30H 55_855 (Groot).JPG,266_1_ADN Lille_30H 55_855 (Groot).JPG,hand/KA_8,KA_8,266,1,1,ADN Lille,30H 55_855,Groot,1,,1,adn lille|30h 55 855
+hand/KA_8/268_1_ADN Lille_30H 57_884 (Groot).JPG,268_1_ADN Lille_30H 57_884 (Groot).JPG,hand/KA_8,KA_8,268,1,1,ADN Lille,30H 57_884,Groot,1,,1,adn lille|30h 57 884
+hand/KA_8/26_2_RABrugge INV120_7405.jpeg,26_2_RABrugge INV120_7405.jpeg,hand/KA_8,KA_8,26,2,1,RA Brugge,INV120_7405,,1,,1,ra brugge|inv120 7405
+hand/KA_8/272_1_ADN Lille_31H 2_14 (Groot).JPG,272_1_ADN Lille_31H 2_14 (Groot).JPG,hand/KA_8,KA_8,272,1,1,ADN Lille,31H 2_14,Groot,1,,1,adn lille|31h 2 14
+hand/KA_8/288_1_ADN Lille 31H 13_188.jpeg,288_1_ADN Lille 31H 13_188.jpeg,hand/KA_8,KA_8,288,1,1,ADN Lille,31H 13_188,,1,,1,adn lille|31h 13 188
+hand/KA_8/295_1_ADN Lille_31H14_198 (Groot).JPG,295_1_ADN Lille_31H14_198 (Groot).JPG,hand/KA_8,KA_8,295,1,1,ADN Lille,31H14_198,Groot,1,,1,adn lille|31h14 198
+hand/KA_8/296_1_ADN Lille_31H14_199 (Groot).JPG,296_1_ADN Lille_31H14_199 (Groot).JPG,hand/KA_8,KA_8,296,1,1,ADN Lille,31H14_199,Groot,1,,1,adn lille|31h14 199
+hand/KA_8/29_3_RABrugge_INV 120_7427.jpeg,29_3_RABrugge_INV 120_7427.jpeg,hand/KA_8,KA_8,29,3,1,RA Brugge,INV 120_7427,,1,,1,ra brugge|inv 120 7427
+hand/KA_8/300_2_ADN Lille_31H14_204 (Groot).JPG,300_2_ADN Lille_31H14_204 (Groot).JPG,hand/KA_8,KA_8,300,2,1,ADN Lille,31H14_204,Groot,1,,1,adn lille|31h14 204
+hand/KA_8/302_1_ADN Lille_31H 14_211 (Groot).JPG,302_1_ADN Lille_31H 14_211 (Groot).JPG,hand/KA_8,KA_8,302,1,1,ADN Lille,31H 14_211,Groot,1,,1,adn lille|31h 14 211
+hand/KA_8/302_2_ADN Lille_31H14_211 (Groot).JPG,302_2_ADN Lille_31H14_211 (Groot).JPG,hand/KA_8,KA_8,302,2,1,ADN Lille,31H14_211,Groot,0,sibling_scan_of=302_1_ADN Lille_31H 14_211 (Groot).JPG,1,adn lille|31h14 211
+hand/KA_8/30_2_RABrugge_INV 120_7435 .jpeg,30_2_RABrugge_INV 120_7435 .jpeg,hand/KA_8,KA_8,30,2,1,RA Brugge,INV 120_7435,,0,duplicate_path_of=hand/KA_10/30_2_RABrugge_INV 120_7435 .jpeg,1,ra brugge|inv 120 7435
+hand/KA_8/312_1_ADN Lille_31H62_966 (Groot).JPG,312_1_ADN Lille_31H62_966 (Groot).JPG,hand/KA_8,KA_8,312,1,1,ADN Lille,31H62_966,Groot,1,,1,adn lille|31h62 966
+hand/KA_8/315_1_ADN Lille_31H63_975  (Groot).JPG,315_1_ADN Lille_31H63_975  (Groot).JPG,hand/KA_8,KA_8,315,1,1,ADN Lille,31H63_975,Groot,1,,1,adn lille|31h63 975
+hand/KA_8/322_1_ADN Lille_31H87_1585 (Groot).JPG,322_1_ADN Lille_31H87_1585 (Groot).JPG,hand/KA_8,KA_8,322,1,1,ADN Lille,31H87_1585,Groot,1,,1,adn lille|31h87 1585
+hand/KA_8/325_2_ADN Lille_32H16_183 (Groot).JPG,325_2_ADN Lille_32H16_183 (Groot).JPG,hand/KA_8,KA_8,325,2,1,ADN Lille,32H16_183,Groot,1,,1,adn lille|32h16 183
+hand/KA_8/330_2_ADN Lille_33H3_67 (Groot).JPG,330_2_ADN Lille_33H3_67 (Groot).JPG,hand/KA_8,KA_8,330,2,1,ADN Lille,33H3_67,Groot,1,,1,adn lille|33h3 67
+hand/KA_8/331_2_ADN Lille_33H31_486.jpeg,331_2_ADN Lille_33H31_486.jpeg,hand/KA_8,KA_8,331,2,1,ADN Lille,33H31_486,,1,,1,adn lille|33h31 486
+hand/KA_8/331_3_ADN Lille_33H31_486.jpeg,331_3_ADN Lille_33H31_486.jpeg,hand/KA_8,KA_8,331,3,1,ADN Lille,33H31_486,,0,sibling_scan_of=331_2_ADN Lille_33H31_486.jpeg,1,adn lille|33h31 486
+hand/KA_8/336_1_ADN Lille_33H48_735 (Groot).JPG,336_1_ADN Lille_33H48_735 (Groot).JPG,hand/KA_8,KA_8,336,1,1,ADN Lille,33H48_735,Groot,1,,1,adn lille|33h48 735
+hand/KA_8/338_2_ADN Lille_33H54_910 .jpeg,338_2_ADN Lille_33H54_910 .jpeg,hand/KA_8,KA_8,338,2,1,ADN Lille,33H54_910,,1,,1,adn lille|33h54 910
+hand/KA_8/338_3_ADN Lille_33H54_910 .jpeg,338_3_ADN Lille_33H54_910 .jpeg,hand/KA_8,KA_8,338,3,1,ADN Lille,33H54_910,,0,sibling_scan_of=338_2_ADN Lille_33H54_910 .jpeg,1,adn lille|33h54 910
+hand/KA_8/343_1_ADN Lille_33H56_998 (Groot).JPG,343_1_ADN Lille_33H56_998 (Groot).JPG,hand/KA_8,KA_8,343,1,1,ADN Lille,33H56_998,Groot,1,,1,adn lille|33h56 998
+hand/KA_8/348_2_ADN Lille_33H62_1106.jpeg,348_2_ADN Lille_33H62_1106.jpeg,hand/KA_8,KA_8,348,2,1,ADN Lille,33H62_1106,,1,,1,adn lille|33h62 1106
+hand/KA_8/348_3_ADN Lille_33H62_1106.jpeg,348_3_ADN Lille_33H62_1106.jpeg,hand/KA_8,KA_8,348,3,1,ADN Lille,33H62_1106,,0,sibling_scan_of=348_2_ADN Lille_33H62_1106.jpeg,1,adn lille|33h62 1106
+hand/KA_8/354_1_ADN Lille_36H283_4482 (Groot).JPG,354_1_ADN Lille_36H283_4482 (Groot).JPG,hand/KA_8,KA_8,354,1,1,ADN Lille,36H283_4482,Groot,1,,1,adn lille|36h283 4482
+hand/KA_8/358_2_ADN Lille_38H68_330.jpeg,358_2_ADN Lille_38H68_330.jpeg,hand/KA_8,KA_8,358,2,1,ADN Lille,38H68_330,,1,,1,adn lille|38h68 330
+hand/KA_8/368_2_ADN Lille_51H 4_24.jpeg,368_2_ADN Lille_51H 4_24.jpeg,hand/KA_8,KA_8,368,2,1,ADN Lille,51H 4_24,,1,,1,adn lille|51h 4 24
+hand/KA_8/372_1_ADN Lille_51H4_23 (Groot).JPG,372_1_ADN Lille_51H4_23 (Groot).JPG,hand/KA_8,KA_8,372,1,1,ADN Lille,51H4_23,Groot,1,,1,adn lille|51h4 23
+hand/KA_8/374_1_ADN Lille_51H26_154 (Groot).JPG,374_1_ADN Lille_51H26_154 (Groot).JPG,hand/KA_8,KA_8,374,1,1,ADN Lille,51H26_154,Groot,1,,1,adn lille|51h26 154
+hand/KA_8/374_2_ADN Lille_51H26_154 (Groot).JPG,374_2_ADN Lille_51H26_154 (Groot).JPG,hand/KA_8,KA_8,374,2,1,ADN Lille,51H26_154,Groot,0,sibling_scan_of=374_1_ADN Lille_51H26_154 (Groot).JPG,1,adn lille|51h26 154
+hand/KA_8/376_2_ADN Lille_59H 5_42.jpeg,376_2_ADN Lille_59H 5_42.jpeg,hand/KA_8,KA_8,376,2,1,ADN Lille,59H 5_42,,1,,1,adn lille|59h 5 42
+hand/KA_8/376_3_ADN Lille_59H 5_42.jpeg,376_3_ADN Lille_59H 5_42.jpeg,hand/KA_8,KA_8,376,3,1,ADN Lille,59H 5_42,,0,sibling_scan_of=376_2_ADN Lille_59H 5_42.jpeg,1,adn lille|59h 5 42
+hand/KA_8/379_1_ADN Lille_59H 5_45 (Groot).JPG,379_1_ADN Lille_59H 5_45 (Groot).JPG,hand/KA_8,KA_8,379,1,1,ADN Lille,59H 5_45,Groot,1,,1,adn lille|59h 5 45
+hand/KA_8/379_2_ADN Lille_59H5_45 (Groot).JPG,379_2_ADN Lille_59H5_45 (Groot).JPG,hand/KA_8,KA_8,379,2,1,ADN Lille,59H5_45,Groot,0,sibling_scan_of=379_1_ADN Lille_59H 5_45 (Groot).JPG,1,adn lille|59h5 45
+hand/KA_8/380_2_ADN Lille_59H 5_46.jpeg,380_2_ADN Lille_59H 5_46.jpeg,hand/KA_8,KA_8,380,2,1,ADN Lille,59H 5_46,,1,,1,adn lille|59h 5 46
+hand/KA_8/380_4_ADN Lille_59H 5_46.jpeg,380_4_ADN Lille_59H 5_46.jpeg,hand/KA_8,KA_8,380,4,1,ADN Lille,59H 5_46,,0,sibling_scan_of=380_2_ADN Lille_59H 5_46.jpeg,1,adn lille|59h 5 46
+hand/KA_8/384_3_ADN Lille_59H71_309 (Groot).JPG,384_3_ADN Lille_59H71_309 (Groot).JPG,hand/KA_8,KA_8,384,3,1,ADN Lille,59H71_309,Groot,1,,1,adn lille|59h71 309
+hand/KA_8/409_3_ADN Lille_211H1_2 (Groot).JPG,409_3_ADN Lille_211H1_2 (Groot).JPG,hand/KA_8,KA_8,409,3,1,ADN Lille,211H1_2,Groot,1,,1,adn lille|211h1 2
+hand/KA_8/415_1_ADN Lille 31H54_841 (DiBe 22526).jpg,415_1_ADN Lille 31H54_841 (DiBe 22526).jpg,hand/KA_8,KA_8,415,1,1,ADN Lille,31H54_841,DiBe 22526,1,,1,adn lille|31h54 841
+hand/KA_8/43_2_ADN Lille B 1499_1103.jpeg,43_2_ADN Lille B 1499_1103.jpeg,hand/KA_8,KA_8,43,2,1,ADN Lille,B 1499_1103,,1,,1,adn lille|b 1499 1103
+hand/KA_8/43_3_ADN Lille B 1499_1103.jpeg,43_3_ADN Lille B 1499_1103.jpeg,hand/KA_8,KA_8,43,3,1,ADN Lille,B 1499_1103,,0,sibling_scan_of=43_2_ADN Lille B 1499_1103.jpeg,1,adn lille|b 1499 1103
+hand/KA_8/446_3_RAGent K14_2987.jpeg,446_3_RAGent K14_2987.jpeg,hand/KA_8,KA_8,446,3,1,RA Gent,K14_2987,,1,,1,ra gent|k14 2987
+hand/KA_8/446_5_RAGent K14_2987.jpeg,446_5_RAGent K14_2987.jpeg,hand/KA_8,KA_8,446,5,1,RA Gent,K14_2987,,0,sibling_scan_of=446_3_RAGent K14_2987.jpeg,1,ra gent|k14 2987
+hand/KA_8/44_1_ANParijs_J 540_I-5-22 (Groot).jpg,44_1_ANParijs_J 540_I-5-22 (Groot).jpg,hand/KA_8,KA_8,44,1,1,AN Paris,J 540_I-5-22,Groot,1,,1,an paris|j 540 i-5-22
+hand/KA_8/458_2_RAGent_K16_39.jpeg,458_2_RAGent_K16_39.jpeg,hand/KA_8,KA_8,458,2,1,RA Gent,K16_39,,0,duplicate_path_of=hand/KA_10/458_2_RAGent_K16_39.jpeg,1,ra gent|k16 39
+hand/KA_8/459_1_ARA T014_2011.jpeg,459_1_ARA T014_2011.jpeg,hand/KA_8,KA_8,459,1,1,ARA,T014_2011,,1,,1,ara|t014 2011
+hand/KA_8/459_2_ARA T014_2011.jpeg,459_2_ARA T014_2011.jpeg,hand/KA_8,KA_8,459,2,1,ARA,T014_2011,,0,sibling_scan_of=459_1_ARA T014_2011.jpeg,1,ara|t014 2011
+hand/KA_8/468_1_SAGent_94_77.jpeg,468_1_SAGent_94_77.jpeg,hand/KA_8,KA_8,468,1,1,SA Gent,94_77,,1,,1,sa gent|94 77
+hand/KA_8/477_2_ADN Lille B 1359_1293.jpeg,477_2_ADN Lille B 1359_1293.jpeg,hand/KA_8,KA_8,477,2,1,ADN Lille,B 1359_1293,,1,,1,adn lille|b 1359 1293
+hand/KA_8/47_1_SAGent_94_75.jpeg,47_1_SAGent_94_75.jpeg,hand/KA_8,KA_8,47,1,1,SA Gent,94_75,,1,,1,sa gent|94 75
+hand/KA_8/482_3_ADN Lille B 4033_1514.jpeg,482_3_ADN Lille B 4033_1514.jpeg,hand/KA_8,KA_8,482,3,1,ADN Lille,B 4033_1514,,1,,1,adn lille|b 4033 1514
+hand/KA_8/50_1_RABrugge_INV 100_102 (Groot).JPG,50_1_RABrugge_INV 100_102 (Groot).JPG,hand/KA_8,KA_8,50,1,1,RA Brugge,INV 100_102,Groot,1,,1,ra brugge|inv 100 102
+hand/KA_8/520_1_ADN Lille_Archives hospitalières de Seclin B 6_183.JPG,520_1_ADN Lille_Archives hospitalières de Seclin B 6_183.JPG,hand/KA_8,KA_8,520,1,1,ADN Lille,Archives hospitalières de Seclin B 6_183,,1,,1,adn lille|archives hospitalières de seclin b 6 183
+hand/KA_8/53_2_ADN Lille 1G 254_1584.jpeg,53_2_ADN Lille 1G 254_1584.jpeg,hand/KA_8,KA_8,53,2,1,ADN Lille,1G 254_1584,,1,,1,adn lille|1g 254 1584
+hand/KA_8/53_3_ADN Lille 1G 254_1584.jpeg,53_3_ADN Lille 1G 254_1584.jpeg,hand/KA_8,KA_8,53,3,1,ADN Lille,1G 254_1584,,0,sibling_scan_of=53_2_ADN Lille 1G 254_1584.jpeg,1,adn lille|1g 254 1584
+hand/KA_8/53_5_ADN Lille 1G 254_1584.jpeg,53_5_ADN Lille 1G 254_1584.jpeg,hand/KA_8,KA_8,53,5,1,ADN Lille,1G 254_1584,,0,sibling_scan_of=53_2_ADN Lille 1G 254_1584.jpeg,1,adn lille|1g 254 1584
+hand/KA_8/549_4_SAGent 94_76.jpeg,549_4_SAGent 94_76.jpeg,hand/KA_8,KA_8,549,4,1,SA Gent,94_76,,1,,1,sa gent|94 76
+hand/KA_8/550_2_ADN Lille B445_1193.jpeg,550_2_ADN Lille B445_1193.jpeg,hand/KA_8,KA_8,550,2,1,ADN Lille,B445_1193,,1,,1,adn lille|b445 1193
+hand/KA_8/555_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_883.jpeg,555_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_883.jpeg,hand/KA_8,KA_8,555,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_883,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 883
+hand/KA_8/556_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_854.jpeg,556_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_854.jpeg,hand/KA_8,KA_8,556,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_854,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 854
+hand/KA_8/557_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_851.jpeg,557_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_851.jpeg,hand/KA_8,KA_8,557,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_851,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 851
+hand/KA_8/564_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_797.jpeg,564_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_797.jpeg,hand/KA_8,KA_8,564,1,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_797,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 797
+hand/KA_8/564_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_797.jpeg,564_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_797.jpeg,hand/KA_8,KA_8,564,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_797,,0,sibling_scan_of=564_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_797.jpeg,1,archief grootseminarie brugge|fonds ten duinen-ter doest 797
+hand/KA_8/570_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_1040.jpeg,570_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_1040.jpeg,hand/KA_8,KA_8,570,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_1040,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 1040
+hand/KA_8/574_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_942.jpeg,574_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_942.jpeg,hand/KA_8,KA_8,574,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_942,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 942
+hand/KA_8/577_2_RAGent K21_151.jpeg,577_2_RAGent K21_151.jpeg,hand/KA_8,KA_8,577,2,1,RA Gent,K21_151,,1,,1,ra gent|k21 151
+hand/KA_8/577_3_RAGent K21_151.jpeg,577_3_RAGent K21_151.jpeg,hand/KA_8,KA_8,577,3,1,RA Gent,K21_151,,0,sibling_scan_of=577_2_RAGent K21_151.jpeg,1,ra gent|k21 151
+hand/KA_8/577_4_RAGent K21_151.jpeg,577_4_RAGent K21_151.jpeg,hand/KA_8,KA_8,577,4,1,RA Gent,K21_151,,0,sibling_scan_of=577_2_RAGent K21_151.jpeg,1,ra gent|k21 151
+hand/KA_8/587_2_RA Bergen_AEM.01.151_12.jpeg,587_2_RA Bergen_AEM.01.151_12.jpeg,hand/KA_8,KA_8,587,2,1,RA Bergen,AEM.01.151_12,,1,,1,ra bergen|aem 01 151 12
+hand/KA_8/58_1_SAGent_94_89.jpg,58_1_SAGent_94_89.jpg,hand/KA_8,KA_8,58,1,1,SA Gent,94_89,,1,,1,sa gent|94 89
+hand/KA_8/58_5_SAGent_94_89.jpeg,58_5_SAGent_94_89.jpeg,hand/KA_8,KA_8,58,5,1,SA Gent,94_89,,0,sibling_scan_of=58_1_SAGent_94_89.jpg,1,sa gent|94 89
+hand/KA_8/594_2_RAGent K6_5.jpeg,594_2_RAGent K6_5.jpeg,hand/KA_8,KA_8,594,2,1,RA Gent,K6_5,,1,,1,ra gent|k6 5
+hand/KA_8/599_2_RAGent K144_43.jpeg,599_2_RAGent K144_43.jpeg,hand/KA_8,KA_8,599,2,1,RA Gent,K144_43,,1,,1,ra gent|k144 43
+hand/KA_8/599_3_RAGent K144_43.jpeg,599_3_RAGent K144_43.jpeg,hand/KA_8,KA_8,599,3,1,RA Gent,K144_43,,0,sibling_scan_of=599_2_RAGent K144_43.jpeg,1,ra gent|k144 43
+hand/KA_8/599_4_RAGent K144_43.jpeg,599_4_RAGent K144_43.jpeg,hand/KA_8,KA_8,599,4,1,RA Gent,K144_43,,0,sibling_scan_of=599_2_RAGent K144_43.jpeg,1,ra gent|k144 43
+hand/KA_8/601_2_Bisschoppelijk Archief Brugge A249_286.jpeg,601_2_Bisschoppelijk Archief Brugge A249_286.jpeg,hand/KA_8,KA_8,601,2,1,Bisschoppelijk Archief Brugge,A249_286,,1,,1,bisschoppelijk archief brugge|a249 286
+hand/KA_8/602_2_Bisschoppelijk Archief Brugge A249_294.jpeg,602_2_Bisschoppelijk Archief Brugge A249_294.jpeg,hand/KA_8,KA_8,602,2,1,Bisschoppelijk Archief Brugge,A249_294,,1,,1,bisschoppelijk archief brugge|a249 294
+hand/KA_8/604_2_Bisschoppelijk Archief Brugge A249_307.jpeg,604_2_Bisschoppelijk Archief Brugge A249_307.jpeg,hand/KA_8,KA_8,604,2,1,Bisschoppelijk Archief Brugge,A249_307,,1,,1,bisschoppelijk archief brugge|a249 307
+hand/KA_8/623_2_SABrugge Fonds Veranneman_3.jpeg,623_2_SABrugge Fonds Veranneman_3.jpeg,hand/KA_8,KA_8,623,2,1,SA Brugge,Fonds Veranneman_3,,1,,1,sa brugge|fonds veranneman 3
+hand/KA_8/623_3_SABrugge Fonds Veranneman_3.jpeg,623_3_SABrugge Fonds Veranneman_3.jpeg,hand/KA_8,KA_8,623,3,1,SA Brugge,Fonds Veranneman_3,,0,sibling_scan_of=623_2_SABrugge Fonds Veranneman_3.jpeg,1,sa brugge|fonds veranneman 3
+hand/KA_8/62_1_RAGent_K99_828 (Groot).jpeg,62_1_RAGent_K99_828 (Groot).jpeg,hand/KA_8,KA_8,62,1,1,RA Gent,K99_828,Groot,1,,1,ra gent|k99 828
+hand/KA_8/62_2_RAGent_K99_828 (Groot).jpeg,62_2_RAGent_K99_828 (Groot).jpeg,hand/KA_8,KA_8,62,2,1,RA Gent,K99_828,Groot,0,sibling_scan_of=62_1_RAGent_K99_828 (Groot).jpeg,1,ra gent|k99 828
+hand/KA_8/631_2_ADN Lille 30H 29_562.jpeg,631_2_ADN Lille 30H 29_562.jpeg,hand/KA_8,KA_8,631,2,1,ADN Lille,30H 29_562,,1,,1,adn lille|30h 29 562
+hand/KA_8/632_3_ADN Lille 36H 360_5099A.jpeg,632_3_ADN Lille 36H 360_5099A.jpeg,hand/KA_8,KA_8,632,3,1,ADN Lille,36H 360_5099A,,1,,1,adn lille|36h 360 5099a
+hand/KA_8/632_4_ADN Lille 36H 360_5099A.jpeg,632_4_ADN Lille 36H 360_5099A.jpeg,hand/KA_8,KA_8,632,4,1,ADN Lille,36H 360_5099A,,0,sibling_scan_of=632_3_ADN Lille 36H 360_5099A.jpeg,1,adn lille|36h 360 5099a
+hand/KA_8/639_2_ADN Lille B 1345_2357.jpeg,639_2_ADN Lille B 1345_2357.jpeg,hand/KA_8,KA_8,639,2,1,ADN Lille,B 1345_2357,,1,,1,adn lille|b 1345 2357
+hand/KA_8/639_3_ADN Lille B 1345_2357.jpeg,639_3_ADN Lille B 1345_2357.jpeg,hand/KA_8,KA_8,639,3,1,ADN Lille,B 1345_2357,,0,sibling_scan_of=639_2_ADN Lille B 1345_2357.jpeg,1,adn lille|b 1345 2357
+hand/KA_8/640_2_ADN Lille B 1550_1095bis.jpeg,640_2_ADN Lille B 1550_1095bis.jpeg,hand/KA_8,KA_8,640,2,1,ADN Lille,B 1550_1095bis,,1,,1,adn lille|b 1550 1095bis
+hand/KA_8/641_2_ADN Lille B 1528_1709.jpeg,641_2_ADN Lille B 1528_1709.jpeg,hand/KA_8,KA_8,641,2,1,ADN Lille,B 1528_1709,,1,,1,adn lille|b 1528 1709
+hand/KA_8/642_2_ADN Lille 1G 196_1060.jpeg,642_2_ADN Lille 1G 196_1060.jpeg,hand/KA_8,KA_8,642,2,1,ADN Lille,1G 196_1060,,1,,1,adn lille|1g 196 1060
+hand/KA_8/645_2_ADN Lille 16G 159_1556.jpeg,645_2_ADN Lille 16G 159_1556.jpeg,hand/KA_8,KA_8,645,2,1,ADN Lille,16G 159_1556,,1,,1,adn lille|16g 159 1556
+hand/KA_8/648_2_ADN Lille 16G 86_891.jpeg,648_2_ADN Lille 16G 86_891.jpeg,hand/KA_8,KA_8,648,2,1,ADN Lille,16G 86_891,,1,,1,adn lille|16g 86 891
+hand/KA_8/648_3_ADN Lille 16G 86_891.jpeg,648_3_ADN Lille 16G 86_891.jpeg,hand/KA_8,KA_8,648,3,1,ADN Lille,16G 86_891,,0,sibling_scan_of=648_2_ADN Lille 16G 86_891.jpeg,1,adn lille|16g 86 891
+hand/KA_8/649_2_ADN Lille 16G 86_892.jpeg,649_2_ADN Lille 16G 86_892.jpeg,hand/KA_8,KA_8,649,2,1,ADN Lille,16G 86_892,,1,,1,adn lille|16g 86 892
+hand/KA_8/649_3_ADN Lille 16G 86_892.jpeg,649_3_ADN Lille 16G 86_892.jpeg,hand/KA_8,KA_8,649,3,1,ADN Lille,16G 86_892,,0,sibling_scan_of=649_2_ADN Lille 16G 86_892.jpeg,1,adn lille|16g 86 892
+hand/KA_8/650_2_ADN Lille 16G 124_1325.jpeg,650_2_ADN Lille 16G 124_1325.jpeg,hand/KA_8,KA_8,650,2,1,ADN Lille,16G 124_1325,,1,,1,adn lille|16g 124 1325
+hand/KA_8/652_3_ADN Lille 38H 14_52.jpeg,652_3_ADN Lille 38H 14_52.jpeg,hand/KA_8,KA_8,652,3,1,ADN Lille,38H 14_52,,1,,1,adn lille|38h 14 52
+hand/KA_8/652_4_ADN Lille 38H 14_52.jpeg,652_4_ADN Lille 38H 14_52.jpeg,hand/KA_8,KA_8,652,4,1,ADN Lille,38H 14_52,,0,sibling_scan_of=652_3_ADN Lille 38H 14_52.jpeg,1,adn lille|38h 14 52
+hand/KA_8/652_6_ADN Lille 38H 14_52.jpeg,652_6_ADN Lille 38H 14_52.jpeg,hand/KA_8,KA_8,652,6,1,ADN Lille,38H 14_52,,0,sibling_scan_of=652_3_ADN Lille 38H 14_52.jpeg,1,adn lille|38h 14 52
+hand/KA_8/653_2_RAGent K181_10.jpeg,653_2_RAGent K181_10.jpeg,hand/KA_8,KA_8,653,2,1,RA Gent,K181_10,,1,,1,ra gent|k181 10
+hand/KA_8/74_1_ANParijs_J 540_I-5-24 (Groot).jpg,74_1_ANParijs_J 540_I-5-24 (Groot).jpg,hand/KA_8,KA_8,74,1,1,AN Paris,J 540_I-5-24,Groot,1,,1,an paris|j 540 i-5-24
+hand/KA_8/80_1_ADNLille_B 1332_1351 (Groot).JPG,80_1_ADNLille_B 1332_1351 (Groot).JPG,hand/KA_8,KA_8,80,1,1,ADN Lille,B 1332_1351,Groot,1,,1,adn lille|b 1332 1351
+hand/KA_8/93_1_RAGent GW1_135.jpg,93_1_RAGent GW1_135.jpg,hand/KA_8,KA_8,93,1,1,RA Gent,GW1_135,,1,,1,ra gent|gw1 135
+hand/KA_9/119_2_RAGent_K32_15.jpeg,119_2_RAGent_K32_15.jpeg,hand/KA_9,KA_9,119,2,1,RA Gent,K32_15,,1,,1,ra gent|k32 15
+hand/KA_9/120_2_RAGent_K32_16.jpeg,120_2_RAGent_K32_16.jpeg,hand/KA_9,KA_9,120,2,1,RA Gent,K32_16,,1,,1,ra gent|k32 16
+hand/KA_9/13_1_ANParijs_J538_I-5-9 (Groot).jpg,13_1_ANParijs_J538_I-5-9 (Groot).jpg,hand/KA_9,KA_9,13,1,1,AN Paris,J538_I-5-9,Groot,1,,1,an paris|j538 i-5-9
+hand/KA_9/25_2_RABrugge INV120_7406.jpeg,25_2_RABrugge INV120_7406.jpeg,hand/KA_9,KA_9,25,2,1,RA Brugge,INV120_7406,,1,,1,ra brugge|inv120 7406
+hand/KA_9/294_3_ADN Lille 31H 14_194.jpeg,294_3_ADN Lille 31H 14_194.jpeg,hand/KA_9,KA_9,294,3,1,ADN Lille,31H 14_194,,1,,1,adn lille|31h 14 194
+hand/KA_9/357_1_ADN Lille_38H48_254 (Groot).JPG,357_1_ADN Lille_38H48_254 (Groot).JPG,hand/KA_9,KA_9,357,1,1,ADN Lille,38H48_254,Groot,1,,1,adn lille|38h48 254
+hand/KA_9/359_1_ADN Lille_38H71_342 (Groot).JPG,359_1_ADN Lille_38H71_342 (Groot).JPG,hand/KA_9,KA_9,359,1,1,ADN Lille,38H71_342,Groot,1,,1,adn lille|38h71 342
+hand/KA_9/38_1_SAGent_94_66 (Groot).JPG,38_1_SAGent_94_66 (Groot).JPG,hand/KA_9,KA_9,38,1,1,SA Gent,94_66,Groot,1,,1,sa gent|94 66
+hand/KA_9/462_2_ARA T014_2275.jpeg,462_2_ARA T014_2275.jpeg,hand/KA_9,KA_9,462,2,1,ARA,T014_2275,,1,,1,ara|t014 2275
+hand/KA_9/464_1_RAGent K122_2.jpg,464_1_RAGent K122_2.jpg,hand/KA_9,KA_9,464,1,1,RA Gent,K122_2,,1,,1,ra gent|k122 2
+hand/KA_9/47_1_SAGent_94_75.jpg,47_1_SAGent_94_75.jpg,hand/KA_9,KA_9,47,1,1,SA Gent,94_75,,0,duplicate_file_of=47_1_SAGent_94_75.jpeg,1,sa gent|94 75
+hand/KA_9/489_AM Lille_PAT-169-3753.jpg,489_AM Lille_PAT-169-3753.jpg,hand/KA_9,KA_9,489,1,0,AM Lille,PAT-169-3753,,1,,1,am lille|pat-169-3753
+hand/KA_9/517_1_ADN Lille_Archives hospitalières de Seclin B 1_3.JPG,517_1_ADN Lille_Archives hospitalières de Seclin B 1_3.JPG,hand/KA_9,KA_9,517,1,1,ADN Lille,Archives hospitalières de Seclin B 1_3,,1,,1,adn lille|archives hospitalières de seclin b 1 3
+hand/KA_9/547_1_SAGent_94_65.jpg,547_1_SAGent_94_65.jpg,hand/KA_9,KA_9,547,1,1,SA Gent,94_65,,1,,1,sa gent|94 65
+hand/KA_9/548_1_SAGent_94_67.jpg,548_1_SAGent_94_67.jpg,hand/KA_9,KA_9,548,1,1,SA Gent,94_67,,1,,1,sa gent|94 67
+hand/KA_9/558_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_845.jpeg,558_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_845.jpeg,hand/KA_9,KA_9,558,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_845,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 845
+hand/KA_9/559_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_828.jpeg,559_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_828.jpeg,hand/KA_9,KA_9,559,1,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_828,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 828
+hand/KA_9/562_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_808.jpeg,562_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_808.jpeg,hand/KA_9,KA_9,562,1,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_808,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 808
+hand/KA_9/624_1_SABrugge Fonds Bogardenschool_Reeks 1_2.jpeg,624_1_SABrugge Fonds Bogardenschool_Reeks 1_2.jpeg,hand/KA_9,KA_9,624,1,1,SA Brugge,Fonds Bogardenschool_Reeks 1_2,,1,,1,sa brugge|fonds bogardenschool reeks 1 2
+hand/KA_9/77_8_RABrugge_INV 120_1431-55 (Groot).JPG,77_8_RABrugge_INV 120_1431-55 (Groot).JPG,hand/KA_9,KA_9,77,8,1,RA Brugge,INV 120_1431-55,Groot,1,,1,ra brugge|inv 120 1431-55
+unattributed/106_3_RAGent_K6_3.jpeg,106_3_RAGent_K6_3.jpeg,unattributed,,106,3,1,RA Gent,K6_3,,1,,1,ra gent|k6 3
+unattributed/137_2_RAGent_K21_147.jpeg,137_2_RAGent_K21_147.jpeg,unattributed,,137,2,1,RA Gent,K21_147,,1,,1,ra gent|k21 147
+unattributed/138_2_RAGent K21_152.jpeg,138_2_RAGent K21_152.jpeg,unattributed,,138,2,1,RA Gent,K21_152,,1,,1,ra gent|k21 152
+unattributed/138_3_RAGent K21_152.jpeg,138_3_RAGent K21_152.jpeg,unattributed,,138,3,1,RA Gent,K21_152,,0,sibling_scan_of=138_2_RAGent K21_152.jpeg,1,ra gent|k21 152
+unattributed/152_4_RABrugge_INV 120_7187 (Groot).JPG,152_4_RABrugge_INV 120_7187 (Groot).JPG,unattributed,,152,4,1,RA Brugge,INV 120_7187,Groot,1,,1,ra brugge|inv 120 7187
+unattributed/170_2_ADN Lille B 1430_1428.jpeg,170_2_ADN Lille B 1430_1428.jpeg,unattributed,,170,2,1,ADN Lille,B 1430_1428,,1,,1,adn lille|b 1430 1428
+unattributed/17_2_ADNLille_11 G 33_260 (Groot).JPG,17_2_ADNLille_11 G 33_260 (Groot).JPG,unattributed,,17,2,1,ADN Lille,11 G 33_260,Groot,1,,1,adn lille|11 g 33 260
+unattributed/182_1_ADNLille_7 G 8_136 (Groot).JPG,182_1_ADNLille_7 G 8_136 (Groot).JPG,unattributed,,182,1,1,ADN Lille,7 G 8_136,Groot,1,,1,adn lille|7 g 8 136
+unattributed/183_1_ADNLille_11 G 23_152 (Groot).JPG,183_1_ADNLille_11 G 23_152 (Groot).JPG,unattributed,,183,1,1,ADN Lille,11 G 23_152,Groot,1,,1,adn lille|11 g 23 152
+unattributed/185_2_ADN Lille 16G 8_91quat.jpeg,185_2_ADN Lille 16G 8_91quat.jpeg,unattributed,,185,2,1,ADN Lille,16G 8_91quat,,1,,1,adn lille|16g 8 91quat
+unattributed/185_3_ADN Lille 16G 8_91quat.jpeg,185_3_ADN Lille 16G 8_91quat.jpeg,unattributed,,185,3,1,ADN Lille,16G 8_91quat,,0,sibling_scan_of=185_2_ADN Lille 16G 8_91quat.jpeg,1,adn lille|16g 8 91quat
+unattributed/18_2_RAGent_K78_293.jpeg,18_2_RAGent_K78_293.jpeg,unattributed,,18,2,1,RA Gent,K78_293,,1,,1,ra gent|k78 293
+unattributed/190_2_ADN Lille 16G 86_893..jpeg,190_2_ADN Lille 16G 86_893..jpeg,unattributed,,190,2,1,ADN Lille,16G 86_893,,1,,1,adn lille|16g 86 893
+unattributed/194_3_ADNLille_16 G 110_1242.JPG,194_3_ADNLille_16 G 110_1242.JPG,unattributed,,194,3,1,ADN Lille,16 G 110_1242,,1,,1,adn lille|16 g 110 1242
+unattributed/19_2_RAGent_K78_294.jpeg,19_2_RAGent_K78_294.jpeg,unattributed,,19,2,1,RA Gent,K78_294,,1,,1,ra gent|k78 294
+unattributed/200_1_ADN Lille_1H 196_2345 (Groot).JPG,200_1_ADN Lille_1H 196_2345 (Groot).JPG,unattributed,,200,1,1,ADN Lille,1H 196_2345,Groot,1,,1,adn lille|1h 196 2345
+unattributed/20_2_RABrugge_INV 14_15.jpeg,20_2_RABrugge_INV 14_15.jpeg,unattributed,,20,2,1,RA Brugge,INV 14_15,,1,,1,ra brugge|inv 14 15
+unattributed/211_1_ADN Lille 1H 400_3668.jpeg,211_1_ADN Lille 1H 400_3668.jpeg,unattributed,,211,1,1,ADN Lille,1H 400_3668,,1,,1,adn lille|1h 400 3668
+unattributed/214_1_ADN Lille 3H 190_2626.jpeg,214_1_ADN Lille 3H 190_2626.jpeg,unattributed,,214,1,1,ADN Lille,3H 190_2626,,1,,1,adn lille|3h 190 2626
+unattributed/222_3_ADN Lille_8H185_2051.JPG,222_3_ADN Lille_8H185_2051.JPG,unattributed,,222,3,1,ADN Lille,8H185_2051,,1,,1,adn lille|8h185 2051
+unattributed/223_1_ADN Lille_10H 8_102 (Groot).JPG,223_1_ADN Lille_10H 8_102 (Groot).JPG,unattributed,,223,1,1,ADN Lille,10H 8_102,Groot,1,,1,adn lille|10h 8 102
+unattributed/223_2_ADN Lille_10H8_102 (Groot).JPG,223_2_ADN Lille_10H8_102 (Groot).JPG,unattributed,,223,2,1,ADN Lille,10H8_102,Groot,0,sibling_scan_of=223_1_ADN Lille_10H 8_102 (Groot).JPG,1,adn lille|10h8 102
+unattributed/226_1_ADN Lille_10H 100_1319 (Groot).JPG,226_1_ADN Lille_10H 100_1319 (Groot).JPG,unattributed,,226,1,1,ADN Lille,10H 100_1319,Groot,1,,1,adn lille|10h 100 1319
+unattributed/22_1_ADNLille_B 396_970.jpeg,22_1_ADNLille_B 396_970.jpeg,unattributed,,22,1,1,ADN Lille,B 396_970,,1,,1,adn lille|b 396 970
+unattributed/22_3_ADNLille_B 396_970.jpeg,22_3_ADNLille_B 396_970.jpeg,unattributed,,22,3,1,ADN Lille,B 396_970,,0,sibling_scan_of=22_1_ADNLille_B 396_970.jpeg,1,adn lille|b 396 970
+unattributed/235_2_ADN Lille 26H 3_17.jpeg,235_2_ADN Lille 26H 3_17.jpeg,unattributed,,235,2,1,ADN Lille,26H 3_17,,1,,1,adn lille|26h 3 17
+unattributed/235_3_ADN Lille 26H 3_17.jpeg,235_3_ADN Lille 26H 3_17.jpeg,unattributed,,235,3,1,ADN Lille,26H 3_17,,0,sibling_scan_of=235_2_ADN Lille 26H 3_17.jpeg,1,adn lille|26h 3 17
+unattributed/23_3_RAGent_K78_300.jpeg,23_3_RAGent_K78_300.jpeg,unattributed,,23,3,1,RA Gent,K78_300,,1,,1,ra gent|k78 300
+unattributed/24_2_RAGent_K14_2417 .jpeg,24_2_RAGent_K14_2417 .jpeg,unattributed,,24,2,1,RA Gent,K14_2417,,1,,1,ra gent|k14 2417
+unattributed/250_1_ADN Lille_ 30H 17_248 (DiBe 36900).JPG,250_1_ADN Lille_ 30H 17_248 (DiBe 36900).JPG,unattributed,,250,1,1,ADN Lille,30H 17_248,DiBe 36900,1,,1,adn lille|30h 17 248
+unattributed/250_3_ADN Lille_30H17_248 (Groot).JPG,250_3_ADN Lille_30H17_248 (Groot).JPG,unattributed,,250,3,1,ADN Lille,30H17_248,Groot,0,sibling_scan_of=250_1_ADN Lille_ 30H 17_248 (DiBe 36900).JPG,1,adn lille|30h17 248
+unattributed/254_1_ADN Lille_30H 17_254 (Groot).JPG,254_1_ADN Lille_30H 17_254 (Groot).JPG,unattributed,,254,1,1,ADN Lille,30H 17_254,Groot,1,,1,adn lille|30h 17 254
+unattributed/260_1_ADN Lille_30H 31_591.JPG,260_1_ADN Lille_30H 31_591.JPG,unattributed,,260,1,1,ADN Lille,30H 31_591,,1,,1,adn lille|30h 31 591
+unattributed/267_2_ADN Lille_30H55_856 (Groot).JPG,267_2_ADN Lille_30H55_856 (Groot).JPG,unattributed,,267,2,1,ADN Lille,30H55_856,Groot,1,,1,adn lille|30h55 856
+unattributed/276_1_ADN Lille_31H 3_20 (Groot).JPG,276_1_ADN Lille_31H 3_20 (Groot).JPG,unattributed,,276,1,1,ADN Lille,31H 3_20,Groot,1,,1,adn lille|31h 3 20
+unattributed/286_3_ADN Lille 31H 13_181.jpeg,286_3_ADN Lille 31H 13_181.jpeg,unattributed,,286,3,1,ADN Lille,31H 13_181,,1,,1,adn lille|31h 13 181
+unattributed/287_1_ADN Lille_31H1 3_185 .JPG,287_1_ADN Lille_31H1 3_185 .JPG,unattributed,,287,1,1,ADN Lille,31H1 3_185,,1,,1,adn lille|31h1 3 185
+unattributed/298_1_ADN Lille_31H14_202 (Groot).JPG,298_1_ADN Lille_31H14_202 (Groot).JPG,unattributed,,298,1,1,ADN Lille,31H14_202,Groot,1,,1,adn lille|31h14 202
+unattributed/299_1_ADN Lille_31H14_203 (Groot).JPG,299_1_ADN Lille_31H14_203 (Groot).JPG,unattributed,,299,1,1,ADN Lille,31H14_203,Groot,1,,1,adn lille|31h14 203
+unattributed/301_1_ADN Lille_31H14_206 (Groot).JPG,301_1_ADN Lille_31H14_206 (Groot).JPG,unattributed,,301,1,1,ADN Lille,31H14_206,Groot,1,,1,adn lille|31h14 206
+unattributed/314_1_ADN Lille_31H63_974 (Groot) .JPG,314_1_ADN Lille_31H63_974 (Groot) .JPG,unattributed,,314,1,1,ADN Lille,31H63_974,Groot,1,,1,adn lille|31h63 974
+unattributed/318_2_ADN Lille 31H 70_1296.jpeg,318_2_ADN Lille 31H 70_1296.jpeg,unattributed,,318,2,1,ADN Lille,31H 70_1296,,1,,1,adn lille|31h 70 1296
+unattributed/334_1_ADN Lille_33H33_533 (Groot).JPG,334_1_ADN Lille_33H33_533 (Groot).JPG,unattributed,,334,1,1,ADN Lille,33H33_533,Groot,1,,1,adn lille|33h33 533
+unattributed/341_1_ADN Lille_33H56_996 (Groot).JPG,341_1_ADN Lille_33H56_996 (Groot).JPG,unattributed,,341,1,1,ADN Lille,33H56_996,Groot,1,,1,adn lille|33h56 996
+unattributed/344_1_ADN Lille_33H58_1019 (Groot).JPG,344_1_ADN Lille_33H58_1019 (Groot).JPG,unattributed,,344,1,1,ADN Lille,33H58_1019,Groot,1,,1,adn lille|33h58 1019
+unattributed/349_1_ADN Lille 33H 67_1169.jpeg,349_1_ADN Lille 33H 67_1169.jpeg,unattributed,,349,1,1,ADN Lille,33H 67_1169,,1,,1,adn lille|33h 67 1169
+unattributed/356_1_ADN Lille_38H4_17 (Groot) .JPG,356_1_ADN Lille_38H4_17 (Groot) .JPG,unattributed,,356,1,1,ADN Lille,38H4_17,Groot,1,,1,adn lille|38h4 17
+unattributed/360_1_ADN Lille_40H 104_698 (Groot).JPG,360_1_ADN Lille_40H 104_698 (Groot).JPG,unattributed,,360,1,1,ADN Lille,40H 104_698,Groot,1,,1,adn lille|40h 104 698
+unattributed/364_1_ADN Lille_40H613_1648 (Groot).JPG,364_1_ADN Lille_40H613_1648 (Groot).JPG,unattributed,,364,1,1,ADN Lille,40H613_1648,Groot,1,,1,adn lille|40h613 1648
+unattributed/365_1_ADN Lille_49H 20_79 (Groot).JPG,365_1_ADN Lille_49H 20_79 (Groot).JPG,unattributed,,365,1,1,ADN Lille,49H 20_79,Groot,1,,1,adn lille|49h 20 79
+unattributed/367_1_ADN Lille_49H 33_165  (Groot).JPG,367_1_ADN Lille_49H 33_165  (Groot).JPG,unattributed,,367,1,1,ADN Lille,49H 33_165,Groot,1,,1,adn lille|49h 33 165
+unattributed/369_1_ADN Lille_51H 4_25 (Groot).JPG,369_1_ADN Lille_51H 4_25 (Groot).JPG,unattributed,,369,1,1,ADN Lille,51H 4_25,Groot,1,,1,adn lille|51h 4 25
+unattributed/373_1_ADN Lille 51H 26_149.jpeg,373_1_ADN Lille 51H 26_149.jpeg,unattributed,,373,1,1,ADN Lille,51H 26_149,,1,,1,adn lille|51h 26 149
+unattributed/382_2_ADN Lille_59H 30_141.jpeg,382_2_ADN Lille_59H 30_141.jpeg,unattributed,,382,2,1,ADN Lille,59H 30_141,,1,,1,adn lille|59h 30 141
+unattributed/386_2_ADN Lille_127H30_215.jpeg,386_2_ADN Lille_127H30_215.jpeg,unattributed,,386,2,1,ADN Lille,127H30_215,,1,,1,adn lille|127h30 215
+unattributed/452_2_RAGent K131_5..jpeg,452_2_RAGent K131_5..jpeg,unattributed,,452,2,1,RA Gent,K131_5,,1,,1,ra gent|k131 5
+unattributed/453_2_RAGent K131_18.jpeg,453_2_RAGent K131_18.jpeg,unattributed,,453,2,1,RA Gent,K131_18,,1,,1,ra gent|k131 18
+unattributed/457_2_RAGent_K16_34.jpeg,457_2_RAGent_K16_34.jpeg,unattributed,,457,2,1,RA Gent,K16_34,,1,,1,ra gent|k16 34
+unattributed/470_1_RAGent GW1_140.jpg,470_1_RAGent GW1_140.jpg,unattributed,,470,1,1,RA Gent,GW1_140,,1,,1,ra gent|gw1 140
+unattributed/478_2_ADN Lille B 1549_1407.jpeg,478_2_ADN Lille B 1549_1407.jpeg,unattributed,,478,2,1,ADN Lille,B 1549_1407,,1,,1,adn lille|b 1549 1407
+unattributed/479_3_ADN Lille B 4033_1431.jpeg,479_3_ADN Lille B 4033_1431.jpeg,unattributed,,479,3,1,ADN Lille,B 4033_1431,,1,,1,adn lille|b 4033 1431
+unattributed/490_1_AM Lille_PAT-42-912.jpg,490_1_AM Lille_PAT-42-912.jpg,unattributed,,490,1,1,AM Lille,PAT-42-912,,1,,1,am lille|pat-42-912
+unattributed/491_1_AM Lille_PAT-42-913.jpg,491_1_AM Lille_PAT-42-913.jpg,unattributed,,491,1,1,AM Lille,PAT-42-913,,1,,1,am lille|pat-42-913
+unattributed/495_AM Lille_PAT-169-3752.jpg,495_AM Lille_PAT-169-3752.jpg,unattributed,,495,1,0,AM Lille,PAT-169-3752,,1,,1,am lille|pat-169-3752
+unattributed/496_AM Lille_PAT-169-3757.jpg,496_AM Lille_PAT-169-3757.jpg,unattributed,,496,1,0,AM Lille,PAT-169-3757,,1,,1,am lille|pat-169-3757
+unattributed/498_1_ADNLille_30 H 31_590.JPG,498_1_ADNLille_30 H 31_590.JPG,unattributed,,498,1,1,ADN Lille,30 H 31_590,,1,,1,adn lille|30 h 31 590
+unattributed/501_1_ADNLille_31 H 51_819.JPG,501_1_ADNLille_31 H 51_819.JPG,unattributed,,501,1,1,ADN Lille,31 H 51_819,,1,,1,adn lille|31 h 51 819
+unattributed/502_1_ADNLille_36 H 69_788.JPG,502_1_ADNLille_36 H 69_788.JPG,unattributed,,502,1,1,ADN Lille,36 H 69_788,,1,,1,adn lille|36 h 69 788
+unattributed/503_1_ADNLille_40 H 556_1345A.JPG,503_1_ADNLille_40 H 556_1345A.JPG,unattributed,,503,1,1,ADN Lille,40 H 556_1345A,,1,,1,adn lille|40 h 556 1345a
+unattributed/505_1_ADNLille_40 H 556_1346.JPG,505_1_ADNLille_40 H 556_1346.JPG,unattributed,,505,1,1,ADN Lille,40 H 556_1346,,1,,1,adn lille|40 h 556 1346
+unattributed/506_1_ADNLille_40 H 556_1347.JPG,506_1_ADNLille_40 H 556_1347.JPG,unattributed,,506,1,1,ADN Lille,40 H 556_1347,,1,,1,adn lille|40 h 556 1347
+unattributed/515_1_ADN Lille_Archives hospitalières de Seclin B 1_1.JPG,515_1_ADN Lille_Archives hospitalières de Seclin B 1_1.JPG,unattributed,,515,1,1,ADN Lille,Archives hospitalières de Seclin B 1_1,,1,,1,adn lille|archives hospitalières de seclin b 1 1
+unattributed/516_1_ADN Lille_Archives hospitalières de Seclin B 1_2.JPG,516_1_ADN Lille_Archives hospitalières de Seclin B 1_2.JPG,unattributed,,516,1,1,ADN Lille,Archives hospitalières de Seclin B 1_2,,1,,1,adn lille|archives hospitalières de seclin b 1 2
+unattributed/519_1_ADN Lille_Archives hospitalières de Seclin B 1_8.JPG,519_1_ADN Lille_Archives hospitalières de Seclin B 1_8.JPG,unattributed,,519,1,1,ADN Lille,Archives hospitalières de Seclin B 1_8,,1,,1,adn lille|archives hospitalières de seclin b 1 8
+unattributed/522_1_ADN Lille_B 1470_842.JPG,522_1_ADN Lille_B 1470_842.JPG,unattributed,,522,1,1,ADN Lille,B 1470_842,,1,,1,adn lille|b 1470 842
+unattributed/529_ADA Troyes_3H 267.jpg,529_ADA Troyes_3H 267.jpg,unattributed,,529,1,0,ADA Troyes,3H 267,,1,,1,ada troyes|3h 267
+unattributed/531_2_RA Bergen_AEM.02.144_101.jpeg,531_2_RA Bergen_AEM.02.144_101.jpeg,unattributed,,531,2,1,RA Bergen,AEM.02.144_101,,1,,1,ra bergen|aem 02 144 101
+unattributed/535_1_ADN Lille_Archives hospitalières de Lille - I. Hôpital Comtesse - Titres isolés-47_2.jpeg,535_1_ADN Lille_Archives hospitalières de Lille - I. Hôpital Comtesse - Titres isolés-47_2.jpeg,unattributed,,535,1,1,ADN Lille,Archives hospitalières de Lille - I. Hôpital Comtesse - Titres isolés-47_2,,1,,1,adn lille|archives hospitalières de lille - i hôpital comtesse - titres isolés-47 2
+unattributed/561_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_826.jpeg,561_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_826.jpeg,unattributed,,561,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_826,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 826
+unattributed/566_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_342.jpeg,566_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_342.jpeg,unattributed,,566,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_342,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 342
+unattributed/566_3_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_342.jpeg,566_3_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_342.jpeg,unattributed,,566,3,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_342,,0,sibling_scan_of=566_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_342.jpeg,1,archief grootseminarie brugge|fonds ten duinen-ter doest 342
+unattributed/567_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_333.jpeg,567_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_333.jpeg,unattributed,,567,1,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_333,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 333
+unattributed/567_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_333.jpeg,567_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_333.jpeg,unattributed,,567,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_333,,0,sibling_scan_of=567_1_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_333.jpeg,1,archief grootseminarie brugge|fonds ten duinen-ter doest 333
+unattributed/575_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_325.jpeg,575_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_325.jpeg,unattributed,,575,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_325,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 325
+unattributed/575_3_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_325.jpeg,575_3_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_325.jpeg,unattributed,,575,3,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_325,,0,sibling_scan_of=575_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_325.jpeg,1,archief grootseminarie brugge|fonds ten duinen-ter doest 325
+unattributed/576_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_324.jpeg,576_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_324.jpeg,unattributed,,576,2,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_324,,1,,1,archief grootseminarie brugge|fonds ten duinen-ter doest 324
+unattributed/576_3_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_324.jpeg,576_3_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_324.jpeg,unattributed,,576,3,1,Archief Grootseminarie Brugge,Fonds Ten Duinen-Ter Doest_324,,0,sibling_scan_of=576_2_Archief Grootseminarie Brugge_Fonds Ten Duinen-Ter Doest_324.jpeg,1,archief grootseminarie brugge|fonds ten duinen-ter doest 324
+unattributed/57_5_ADN Lille B 1508_1627.jpeg,57_5_ADN Lille B 1508_1627.jpeg,unattributed,,57,5,1,ADN Lille,B 1508_1627,,1,,1,adn lille|b 1508 1627
+unattributed/580_2_RAGent K21_119.jpeg,580_2_RAGent K21_119.jpeg,unattributed,,580,2,1,RA Gent,K21_119,,1,,1,ra gent|k21 119
+unattributed/582_1_RAGent K99_610.jpeg,582_1_RAGent K99_610.jpeg,unattributed,,582,1,1,RA Gent,K99_610,,1,,1,ra gent|k99 610
+unattributed/582_3_RAGent K99_610.jpeg,582_3_RAGent K99_610.jpeg,unattributed,,582,3,1,RA Gent,K99_610,,0,sibling_scan_of=582_1_RAGent K99_610.jpeg,1,ra gent|k99 610
+unattributed/584_1_Archief Grootseminarie Brugge_Fonds Spermalie_20.jpeg,584_1_Archief Grootseminarie Brugge_Fonds Spermalie_20.jpeg,unattributed,,584,1,1,Archief Grootseminarie Brugge,Fonds Spermalie_20,,1,,1,archief grootseminarie brugge|fonds spermalie 20
+unattributed/585_1_Archief Grootseminarie Brugge_Fonds Spermalie_24.jpeg,585_1_Archief Grootseminarie Brugge_Fonds Spermalie_24.jpeg,unattributed,,585,1,1,Archief Grootseminarie Brugge,Fonds Spermalie_24,,1,,1,archief grootseminarie brugge|fonds spermalie 24
+unattributed/586_2_RA Bergen_AEM.01.151_7..jpeg,586_2_RA Bergen_AEM.01.151_7..jpeg,unattributed,,586,2,1,RA Bergen,AEM.01.151_7,,1,,1,ra bergen|aem 01 151 7
+unattributed/586_3_RA Bergen_AEM.01.151_7..jpeg,586_3_RA Bergen_AEM.01.151_7..jpeg,unattributed,,586,3,1,RA Bergen,AEM.01.151_7,,0,sibling_scan_of=586_2_RA Bergen_AEM.01.151_7..jpeg,1,ra bergen|aem 01 151 7
+unattributed/595_1_RAGent_GW5_3.jpg,595_1_RAGent_GW5_3.jpg,unattributed,,595,1,1,RA Gent,GW5_3,,1,,1,ra gent|gw5 3
+unattributed/600_2_Bisschoppelijk Archief Brugge A249_271.jpeg,600_2_Bisschoppelijk Archief Brugge A249_271.jpeg,unattributed,,600,2,1,Bisschoppelijk Archief Brugge,A249_271,,1,,1,bisschoppelijk archief brugge|a249 271
+unattributed/603_2_Bisschoppelijk Archief Brugge A249_302.jpeg,603_2_Bisschoppelijk Archief Brugge A249_302.jpeg,unattributed,,603,2,1,Bisschoppelijk Archief Brugge,A249_302,,1,,1,bisschoppelijk archief brugge|a249 302
+unattributed/606_2_Bisschoppelijk Archief Brugge A248_249.jpeg,606_2_Bisschoppelijk Archief Brugge A248_249.jpeg,unattributed,,606,2,1,Bisschoppelijk Archief Brugge,A248_249,,1,,1,bisschoppelijk archief brugge|a248 249
+unattributed/606_3_Bisschoppelijk Archief Brugge A248_249.jpeg,606_3_Bisschoppelijk Archief Brugge A248_249.jpeg,unattributed,,606,3,1,Bisschoppelijk Archief Brugge,A248_249,,0,sibling_scan_of=606_2_Bisschoppelijk Archief Brugge A248_249.jpeg,1,bisschoppelijk archief brugge|a248 249
+unattributed/608_2_Bisschoppelijk Archief Brugge C354_19.jpeg,608_2_Bisschoppelijk Archief Brugge C354_19.jpeg,unattributed,,608,2,1,Bisschoppelijk Archief Brugge,C354_19,,1,,1,bisschoppelijk archief brugge|c354 19
+unattributed/612_2_Bisschoppelijk Archief Brugge C419_1.jpeg,612_2_Bisschoppelijk Archief Brugge C419_1.jpeg,unattributed,,612,2,1,Bisschoppelijk Archief Brugge,C419_1,,1,,1,bisschoppelijk archief brugge|c419 1
+unattributed/616_2_RAGent K78_301.jpeg,616_2_RAGent K78_301.jpeg,unattributed,,616,2,1,RA Gent,K78_301,,1,,1,ra gent|k78 301
+unattributed/621_2_RABrugge INV100_86.jpeg,621_2_RABrugge INV100_86.jpeg,unattributed,,621,2,1,RA Brugge,INV100_86,,1,,1,ra brugge|inv100 86
+unattributed/621_3_RABrugge INV100_86.jpeg,621_3_RABrugge INV100_86.jpeg,unattributed,,621,3,1,RA Brugge,INV100_86,,0,sibling_scan_of=621_2_RABrugge INV100_86.jpeg,1,ra brugge|inv100 86
+unattributed/622_2_RABrugge INV120_7423.jpeg,622_2_RABrugge INV120_7423.jpeg,unattributed,,622,2,1,RA Brugge,INV120_7423,,1,,1,ra brugge|inv120 7423
+unattributed/628_3_ADN Lille 4G 215_3104.jpeg,628_3_ADN Lille 4G 215_3104.jpeg,unattributed,,628,3,1,ADN Lille,4G 215_3104,,1,,1,adn lille|4g 215 3104
+unattributed/628_8_ADN Lille 4G 215_3104.jpeg,628_8_ADN Lille 4G 215_3104.jpeg,unattributed,,628,8,1,ADN Lille,4G 215_3104,,0,sibling_scan_of=628_3_ADN Lille 4G 215_3104.jpeg,1,adn lille|4g 215 3104
+unattributed/629_3_ADN Lille 4G 215_3110.jpeg,629_3_ADN Lille 4G 215_3110.jpeg,unattributed,,629,3,1,ADN Lille,4G 215_3110,,1,,1,adn lille|4g 215 3110
+unattributed/629_4_ADN Lille 4G 215_3110.jpeg,629_4_ADN Lille 4G 215_3110.jpeg,unattributed,,629,4,1,ADN Lille,4G 215_3110,,0,sibling_scan_of=629_3_ADN Lille 4G 215_3110.jpeg,1,adn lille|4g 215 3110
+unattributed/630_2_ADN Lille 30H 14_181.jpeg,630_2_ADN Lille 30H 14_181.jpeg,unattributed,,630,2,1,ADN Lille,30H 14_181,,1,,1,adn lille|30h 14 181
+unattributed/630_3_ADN Lille 30H 14_181.jpeg,630_3_ADN Lille 30H 14_181.jpeg,unattributed,,630,3,1,ADN Lille,30H 14_181,,0,sibling_scan_of=630_2_ADN Lille 30H 14_181.jpeg,1,adn lille|30h 14 181
+unattributed/644_2_ADN Lille 16G 247_2071.jpeg,644_2_ADN Lille 16G 247_2071.jpeg,unattributed,,644,2,1,ADN Lille,16G 247_2071,,1,,1,adn lille|16g 247 2071
+unattributed/644_3_ADN Lille 16G 247_2071.jpeg,644_3_ADN Lille 16G 247_2071.jpeg,unattributed,,644,3,1,ADN Lille,16G 247_2071,,0,sibling_scan_of=644_2_ADN Lille 16G 247_2071.jpeg,1,adn lille|16g 247 2071
+unattributed/647_2_ADN Lille 16G 148_1519.jpeg,647_2_ADN Lille 16G 148_1519.jpeg,unattributed,,647,2,1,ADN Lille,16G 148_1519,,1,,1,adn lille|16g 148 1519
+unattributed/78_2_RAGent_K6_8 .jpeg,78_2_RAGent_K6_8 .jpeg,unattributed,,78,2,1,RA Gent,K6_8,,1,,1,ra gent|k6 8
+unattributed/79_2_RAGent K99_737.jpeg,79_2_RAGent K99_737.jpeg,unattributed,,79,2,1,RA Gent,K99_737,,1,,1,ra gent|k99 737
+unattributed/81_1_RAGent GW1_116.jpg,81_1_RAGent GW1_116.jpg,unattributed,,81,1,1,RA Gent,GW1_116,,1,,1,ra gent|gw1 116
+unattributed/82_1_RAGent_GW1_111.jpg,82_1_RAGent_GW1_111.jpg,unattributed,,82,1,1,RA Gent,GW1_111,,1,,1,ra gent|gw1 111
+unattributed/86_1_RAGent GW1_121.jpg,86_1_RAGent GW1_121.jpg,unattributed,,86,1,1,RA Gent,GW1_121,,1,,1,ra gent|gw1 121
+unattributed/91_2_RAGent_GW2_512.jpg,91_2_RAGent_GW2_512.jpg,unattributed,,91,2,1,RA Gent,GW2_512,,1,,1,ra gent|gw2 512
+unattributed/94_1_RAGent GW1_137.jpg,94_1_RAGent GW1_137.jpg,unattributed,,94,1,1,RA Gent,GW1_137,,1,,1,ra gent|gw1 137
