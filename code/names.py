@@ -32,6 +32,7 @@ _REPO_PREFIXES: tuple[tuple[str, str], ...] = (
     ("ADA Troyes", "ADA Troyes"),
     ("ANParijs", "AN Paris"),
     ("RA Bergen", "RA Bergen"),
+    ("RABergen", "RA Bergen"),
     ("RAKortrijk", "RA Kortrijk"),
     ("RABrugge", "RA Brugge"),
     ("RAGent", "RA Gent"),
