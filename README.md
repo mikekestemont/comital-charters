@@ -357,9 +357,42 @@ Robin via WeTransfer on 2026-09-16. `mole review` / `mole viz` need the sidecar'
 relative `data/stage1-pool/…` to resolve: `~/GitRepos/mole/data/stage1-pool`
 is a symlink to `images/stage1-pool`, run from `~/GitRepos/mole`.
 
-**Mole state:** the three-tab review sheet and `--no-highlight-labels` are
-mole commit `9acb0d1` (2026-09-16). The server was still on `0077799` when
-stage 1 ran — `git pull` there before building sheets server-side.
+### Reproducibility pin (mole)
+
+Everything above reproduces from **mole commit `9acb0d1`**, tagged
+[`comital-stage1`](https://github.com/mikekestemont/mole/releases/tag/comital-stage1)
+(2026-09-16). Verified per step:
+
+| step | where / when it ran | mole in use | vs. `9acb0d1` |
+|---|---|---|---|
+| stretch + Sauvola + script scale (`14`, `15`) | laptop, 2026-09-10 (gallery) and 09-16 (addendum) | `3cae628` | `src/mole/prep/` identical |
+| SSL fine-tune `runs/comital_ssl_sauvola` (from `checkpoints/raven_checkpoint.pth`) | GPU box, 2026-09-10/11 | `0077799` | `embed/`, `selfsup/`, `supervised/` identical; `data/docids.py` differs only in the Utrecht rule (pool uses explicit `doc_ids.csv`) |
+| gallery codebook + stage-1 embedding | GPU box, 2026-09-13 / 09-16 | `0077799` | same |
+| `17_stage1_score.py`, review sheet | laptop, 2026-09-16 | `9acb0d1` | exact |
+| the two HTML files as sent (viz cosmetics: rings only, neighbour lines off, all pages) | laptop, 2026-09-16 | `bf7b568` | presentation only |
+
+Fingerprints (md5), server `~/mole/`:
+
+```
+acdeb20e6948bddaaa7a27696952a838  runs/comital_ssl_sauvola/checkpoint.pth   (step 40160, config hash 7fcc601b42ee, 437 MB)
+16288433c21ad1036e4947145e345cc2  outputs/comital/comital.sauvola.ssl.final.codebook.npy   (VLAD-100, seed 0, fit on the 313)
+50b59eaab7e0577248a30cc82403f7c4  outputs/comital/stage1.ssl.final.npy   (= outputs/stage1/stage1.ssl.final.npy here)
+```
+
+Fine-tune config (`runs/comital_ssl_sauvola/config.json`): `data/comital`
+(313 Sauvola PNGs), window 256 / model 224 / overlap 0.5, `invert: true`,
+`foreground_min 0.05`; ViT-S/16, DINO-style with masked image modelling
+(`attmask_high`, pred ratio 0.3), aug preset `mild` (8 local crops of 96 px,
+no colour/JPEG/rotation aug); 20 epochs, 40160 steps. Embedding: VLAD pooling,
+`--codebook-from` the gallery codebook, contrast foreground 0.05, no
+intra-norm, no whitening. To rerun stage 1 from scratch: check out
+`comital-stage1` in mole, rebuild `images/stage1-pool/` (scripts 00–16 with
+`--batch addendum`), then the `mole embed` / `mole review` lines above.
+
+**Mole after the pin:** the server was on `0077799` when stage 1 ran and has
+since moved on (`bf7ffd5` at the time of writing); the laptop working tree
+carries unrelated uncommitted work in `embed/`. For anything meant to
+reproduce these numbers, use the tag, not `main`.
 
 ### Stage 2 (not decided)
 
